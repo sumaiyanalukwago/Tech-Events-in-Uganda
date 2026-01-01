@@ -8,9 +8,7 @@ Social media feeds move fast, and important events often get buried. This reposi
 ![](/Tech events in uganda by Sumaiya Nalukwago.png)
  
 ## Read me [one more time...]
-Every link in this repository includes a date when a particular event will be happening.
-
-The events arearranged according to months  
+Every link in this repository includes a date when a particular event will be happening. The events are arranged according to months  
 
 ## To get the most out of this directory, do this:
 - To get the most out of this directory:
