@@ -7,13 +7,11 @@ Social media feeds move fast, and important events often get buried. This reposi
   
 ![](/Tech events in uganda by Sumaiya Nalukwago.png)
  
-## Read me [one more time...]
-Every link in this repository includes a date when a particular event will be happening. The events are arranged according to months  
+Every link in this repository includes a date when a particular event will be happening alongside the venue. The events are arranged according to months  
 
 ## To get the most out of this directory, do this:
-- To get the most out of this directory:
-- Browse the list: Scroll down to the Upcoming events section to see a chronological list of gatherings
-- Get the details: Click the link attached on each particular event to access the official registration page, agenda, and venue details for each event.
+- Browse the whole list by scrolling down to the Upcoming events section to see a chronological list of  the tech gatherings
+- Get the details by clicking on the link attached on each particular event to access the official registration page, agenda, and venue details for each event.
 - Stay updated by clicking the star button at the top of this page to save this repository in your favorites and check back regularly for new additions.
 
 ## How to contribute
@@ -22,9 +20,6 @@ Every link in this repository includes a date when a particular event will be ha
 - Submitting a pull request.
 
 If you find this directory helpful, please consider giving it a star and feel free to share it with other techies.
-
-## 
-Stay connected and follow me on GitHub for more updates and resources.
 
 ## January
 - [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
@@ -138,4 +133,4 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MIT https://oge.mit.edu/msrp/ DEC 10
 
 
-Curated with 💙 by Sumaiya Nalukwago
+Curated with 💙 by Sumaiya Nalukwago.
