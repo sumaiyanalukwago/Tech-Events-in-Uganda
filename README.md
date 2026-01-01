@@ -2,7 +2,7 @@
 Welcome to the centralized hub for all things tech in Uganda. This repository is a community-driven directory of upcoming conferences, meetups, hackathons, and workshops across the country.
 <img width="3780" height="1890" alt="Tech events in uganda by Sumaiya Nalukwago" src="https://github.com/user-attachments/assets/48310390-38d7-4cc2-84e9-6b69258356c6" />
 
-Why this exists?
+## Why this exists?
 
 Social media feeds move fast, and important events often get buried. This repository serves as a permanent, searchable, and collaborative record to ensure no developer or tech enthusiast in Uganda misses out on growth opportunities.
  
@@ -105,7 +105,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] CNF Event https://tinyurl.com/wwx84tmu SEPT 16
 - [ ] ASU https://tinyurl.com/39hcd65r SEPT 5
 - [ ] Boabab https://form.thebaobabnetwork.com/render/68b1ff820903529b4f4ed592 SEPT 29
-- [ ] 
+
 
 ## October
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
