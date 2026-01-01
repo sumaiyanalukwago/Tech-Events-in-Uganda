@@ -23,8 +23,10 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ## January
 - [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026.
       Here is how to Apply:
-      Step 1: Apply for the course here: refactory.typeform.com/to/Qyx6jwXa
-      Step 2: Apply for the 10X Program Scholarship here: refactory.typeform.com/10XMopUp
+     [ ] Step 1: Apply for the course here: refactory.typeform.com/to/Qyx6jwXa
+     [ ] Step 2: Apply for the 10X Program Scholarship here: refactory.typeform.com/10XMopUp
+      ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
+
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
