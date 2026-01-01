@@ -10,7 +10,7 @@ Every link in this repository includes a date when a particular event will be ha
 
 ## To get the most out of this directory, do this:
 - Browse the whole list by scrolling down to the Upcoming events section to see a chronological list of  the tech gatherings
-- Get the details by clicking on the link attached on each particular event to access the official registration page, agenda, and venue details for each event.
+- Get the details by clicking on the link attached on each particular event to access the official registration page, agenda, and venue details.
 - Stay updated by clicking the star button at the top of this page to save this repository in your favorites and check back regularly for new additions.
 
 ## How to contribute:
