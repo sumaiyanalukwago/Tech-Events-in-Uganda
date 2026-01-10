@@ -34,9 +34,10 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] ICT and Records Management Bootcamp at the Kabale Regional Innovation Hub. Registration deadline: 12th January 2026. Click the link to register:
 (https://docs.google.com/forms/d/e/1FAIpQLSdRCevzvNa3_XPzRuqd6ywp4Uiqj8VZJU1qJK-r-NTQHvBbPA/viewform?vc=0&c=0&w=1&flr=0&pli=1) The bootcamp will run from Monday 19th to 30th January 2026.
 ![WhatsApp Image 2026-01-07 at 4 11 20 PM](https://github.com/user-attachments/assets/28bad1e8-46ad-441e-a735-f790a0381856)
-- [ ] ICT and Records Management Bootcamp at the Kabale Regional Innovation Hub. Registration deadline: 12th January 2026. Click the link to register:
-(https://www.meetup.com/aws-cloud-club-at-makerere-university/)The session will be held on Tuesday 13thJanuary 2026.
-![WhatsApp Image 2026-01-07 at 4 11 20 PM](https://github.com/user-attachments/assets/28bad1e8-46ad-441e-a735-f790a0381856)
+- [ ] AWS Cloud Club Meetup. Registration deadline: 12th January 2026. Click the link to register:
+(https://www.meetup.com/aws-cloud-club-at-makerere-university/)The session will be held on Tuesday 13th January 2026.
+![WhatsApp Image 2026-01-09 at 4 38 54 PM](https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
+
 
 
 
