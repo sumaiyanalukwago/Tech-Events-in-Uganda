@@ -38,7 +38,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 (https://www.meetup.com/aws-cloud-club-at-makerere-university/)The session will be held on Tuesday 13th January 2026.
 ![WhatsApp Image 2026-01-09 at 4 38 54 PM](https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 - [ ] Girls 4 Girls - Call for Applications. Click the link to register:
-(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)).
+(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
 
 
 
