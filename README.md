@@ -47,7 +47,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 
 ## March
-- [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Register here:([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://docs.google.com/forms/d/e/1FAIpQLSdX7tvo3u-InYs9vJJ40XeLB44P_q4B8r9EZlVFJa_zcZDWJA/closedform))
+- [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Register here:([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://docs.google.com/forms/d/e/1FAIpQLSdX7tvo3u-InYs9vJJ40XeLB44P_q4B8r9EZlVFJa_zcZDWJA/closedform)
 
 
 ## April
