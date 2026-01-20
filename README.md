@@ -21,9 +21,8 @@ Every link in this repository includes a date when a particular event will be ha
 If you find this directory helpful, please consider giving it a star and feel free to share it with other techies.
 
 ## January
-- [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026.
-      Apply for the course here: https://refactory.typeform.com/to/Qyx6jwXa  and apply for the 10X Program Scholarship here: https://refactory.typeform.com/10XMopUp
-      ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
+- [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026. Apply for the course here: https://refactory.typeform.com/to/Qyx6jwXa  and apply for the 10X Program Scholarship here: https://refactory.typeform.com/10XMopUp
+  ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
 
 - The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
  Register to attend: ([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://tinyurl.com/aifest2026Muk)
@@ -39,12 +38,11 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ![WhatsApp Image 2026-01-09 at 4 38 54 PM](https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 - [ ] Girls 4 Girls - Call for Applications. Click the link to register:
 (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
-
-
+- [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:(https://igaeglobal.com/conf/index.php?id=100049422)
 
 
 ## February
-- [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:(https://igaeglobal.com/conf/index.php?id=100049422)
+
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Register here:([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://docs.google.com/forms/d/e/1FAIpQLSdX7tvo3u-InYs9vJJ40XeLB44P_q4B8r9EZlVFJa_zcZDWJA/closedform)
