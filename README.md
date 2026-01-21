@@ -42,7 +42,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 
 ## February
-- [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more:(https://researchleagues.com/event/index.php?id=100071993))
+- [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
 
 
 ## March
