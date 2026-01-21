@@ -43,7 +43,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 ## February
 
-
+International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on 19 February 2026 at Kampala, Uganda.
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
