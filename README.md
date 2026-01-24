@@ -40,6 +40,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
 - [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:([[https://igaeglobal.com/conf/index.php?id=100049422](https://researchleagues.com/event/index.php?id=100071993)](https://igaeglobal.com/conf/index.php?id=100049422))
 
+- [ ] Web Development training by Code Queen. Apply via: (https://docs.google.com/forms/d/e/1FAIpQLSfp3Id0Ax1N12twPRFyjV9zD7si975VpWveo1T8KCuzr9t7LA/viewform)
 
 ## February
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
