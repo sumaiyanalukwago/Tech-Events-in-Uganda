@@ -44,7 +44,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 ## February
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
- - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) Africa's Talking, Acacia Place
+ - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place
 
 
 
