@@ -45,13 +45,13 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
  - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.
 ![JS Kamapala Meetup](https://github.com/user-attachments/assets/bd207f08-832b-4058-aa5c-fefdb7023052)
-Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place
+Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place.
 
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
-Mukono, Uganda.  Learn more: (https://mukono.wordcamp.org/2026/)
+Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 
 
 ## April
