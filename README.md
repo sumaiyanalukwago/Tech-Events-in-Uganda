@@ -40,11 +40,12 @@ If you find this directory helpful, please consider giving it a star and feel fr
 (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA).
 - [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:([[https://igaeglobal.com/conf/index.php?id=100049422](https://researchleagues.com/event/index.php?id=100071993)](https://igaeglobal.com/conf/index.php?id=100049422))
 - [ ] Web Development training by Code Queen. Apply via: (https://docs.google.com/forms/d/e/1FAIpQLSfp3Id0Ax1N12twPRFyjV9zD7si975VpWveo1T8KCuzr9t7LA/viewform)
-      
-
+  ![JS Kamapala Meetup](https://github.com/user-attachments/assets/885aca02-2ebf-4d86-bc10-98aa2b14d4f4)
 ## February
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
- - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place
+ - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.
+
+Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 2-6pm (EAT) at Africa's Talking, Acacia Place
 
 
 
