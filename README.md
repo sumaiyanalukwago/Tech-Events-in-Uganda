@@ -59,6 +59,7 @@ Whether you are a React pro, a UI designer, or a newbie looking to make your fir
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
 Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
+![wordcamp mukono](https://github.com/user-attachments/assets/e9095134-a725-4ee5-99cc-60ae38641662)
 
 
 ## April
