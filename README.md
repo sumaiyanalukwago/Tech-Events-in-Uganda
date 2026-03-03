@@ -129,7 +129,8 @@ Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 
 - [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 pM (EAT).
 Learn more: (https://luma.com/jbo0dwas)
-![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
+![Filecoin Kampala](https://github.com/user-attachments/assets/8079a2da-7131-45a4-9beb-9dfed3e657d0)
+
 
 
 ## April
