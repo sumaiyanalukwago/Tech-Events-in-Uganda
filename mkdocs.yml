@@ -1,0 +1,19 @@
+site_name: 2026 Tech Events in Uganda
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Events:
+    - January: events/january.md
+    - February: events/february.md
+    - March: events/march.md
+    - April: events/april.md
+    - May: events/may.md
+    - June: events/june.md
+    - July: events/july.md
+    - August: events/august.md
+    - September: events/september.md
+    - October: events/october.md
+    - November: events/november.md
+    - December: events/december.md
