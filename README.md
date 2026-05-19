@@ -274,8 +274,6 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
  <img width="1076" height="1080" alt="WhatsApp Image 2026-05-18 at 3 54 32 PM" src="https://github.com/user-attachments/assets/1bbe721e-b3ac-4f1e-970a-cc31efb18032" />
-
-- [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spotnow via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
@@ -303,6 +301,8 @@ Learn more: ( www.vu.ac.ug )
       
 - [ ] The Blockchain devfest will be happening on the 27th of June 2026 under the theme: Towards Responsible Decentralized AI. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 ![Blockchain devfest](https://github.com/user-attachments/assets/34884952-5f4b-468a-8752-91ee15f5c181)
+
+- [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spotnow via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
 
 - [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
