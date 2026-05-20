@@ -286,6 +286,15 @@ Learn more: ( https://globalai.community/agentcamp/mbarara/)
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road.Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
 
+- [ ] Join us for Build with AI Kampala 2026 - Pre-Event 2
+Date: 23rd May 2026
+Venue: Virtual
+Time: 10:00 AM - 12:00 PM
+
+Are you ready to explore the future of Artificial Intelligence and build real-world solutions using Google AI technologies?
+
+Get ready for Build with AI 2026, a global community initiative empowering developers to build intelligent solutions using the latest Google AI technologies. The prevent 2 happening on 23rd May Prepares us for the main event.
+
 - [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
 Learn more: ( www.vu.ac.ug )
 <img width="862" height="876" alt="WhatsApp Image 2026-04-30 at 4 09 28 PM" src="https://github.com/user-attachments/assets/8a6ff2ad-86fc-4fe2-a4e0-b214043811bf" />
