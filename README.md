@@ -40,9 +40,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ![WhatsApp Image 2026-01-09 at 4 38 54 PM]
 (https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 
-- [ ] Girls 4 Girls - Call for Applications. Click the link to register:
-(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)
-
+- [ ] Girls 4 Girls-Call for Applications.Click the link to register (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)
 - [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:([https://igaeglobal.com/conf/index.php?id=100049422](https://researchleagues.com/event/index.php?id=100071993)](https://igaeglobal.com/conf/index.php?id=100049422)
       
 - [ ] Web Development training by Code Queen. Apply via: (https://docs.google.com/forms/d/e/1FAIpQLSfp3Id0Ax1N12twPRFyjV9zD7si975VpWveo1T8KCuzr9t7LA/viewform)
@@ -286,14 +284,7 @@ Learn more: ( https://globalai.community/agentcamp/mbarara/)
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road.Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
 
-- [ ] Join us for Build with AI Kampala 2026 - Pre-Event 2
-Date: 23rd May 2026
-Venue: Virtual
-Time: 10:00 AM - 12:00 PM
-
-Are you ready to explore the future of Artificial Intelligence and build real-world solutions using Google AI technologies?
-
-Get ready for Build with AI 2026, a global community initiative empowering developers to build intelligent solutions using the latest Google AI technologies. The prevent 2 happening on 23rd May Prepares us for the main event.
+- [ ] Are you ready to explore the future of Artificial Intelligence and build real-world solutions using Google AI technologies? Get ready for Build with AI 2026, a global community initiative empowering developers to build intelligent solutions using the latest Google AI technologies. The pre-event  2 happening on 23rd May Prepares us for the main event. Join us for Build with AI Kampala 2026 - Pre-Event 2. This ill be held on Saturday 23rd May 2026 starting at 10:00 AM. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-build-with-ai-kampala-2026-pre-event-2/ )
 
 - [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
 Learn more: ( www.vu.ac.ug )
