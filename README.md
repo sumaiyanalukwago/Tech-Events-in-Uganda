@@ -116,8 +116,7 @@ Learn more: (https://luma.com/jbo0dwas)
 Learn more: (https://tinyurl.com/bwai-ai-in-web3)
 ![AI in Web 3](https://github.com/user-attachments/assets/cf33f65e-044b-4a47-8fbe-8a9f8697aeac)
 
-- [ ] International Women's Day Jinja  under the theme "Break the Pattern" will be happening on the 21st of March 2026 at Jinja  Tech Hub. This will run from 09:00 AM  to 04:00PM(EAT).
-Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
+- [ ] International Women's Day Jinja  under the theme "Break the Pattern" will be happening on the 21st of March 2026 at Jinja  Tech Hub. This will run from 09:00 AM  to 04:00PM(EAT). Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
 ![IWD Jinja ](https://github.com/user-attachments/assets/8f0a080a-0727-4f0b-ac29-9eb692adc526)
 
 - [ ] JavaScript Kampala meetup. This will be about configuring CMS for the new webiste and the sesiion will be held online on Saturday 7th March,2026 at 2PM (EAT)
