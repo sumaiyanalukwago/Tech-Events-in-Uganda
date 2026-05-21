@@ -229,7 +229,6 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
  - [ ] Kampala Devops Community is hosting a webinar focused on Implementing Security by Design Principles in Containerized Applications. In the world of fast-paced deployment, shipping containerized applications at speed is a superpower. But if security is just an afterthought tacked onto the end of your pipeline, you’re playing a risky game against evolving enterprise threats. It’s time to move past reactive patching and master the art of shifting left. Join in and learn how to build better secure architecture. This will be held online on Saturday 23rd May 2026. Register here: ( https://www.kampaladevops.org/events )
 <img width="1080" height="1080" alt="KDC-Webinar-3-2026" src="https://github.com/user-attachments/assets/6a13bb2f-f74c-4fdc-b098-1d9d331cdb35" />
 
-
 - [ ] GitHub Copilot Dev Day is a community developer event focused on helping students and developers learn GitHub, modern developer workflows, and how to use AI tools like GitHub Copilot to improve productivity and learning. This event will target university students, beginner developers, and tech community members in Uganda who want to learn version control, collaboration using GitHub, and how AI tools are changing software development. This will be held at Bugema University,Kampala Campus Kampala on Friday 1st  May 2026 at 10:00 AM EAT. Register here:( https://luma.com/x96a7tl2  )
 ​![GITHUB BUGEMA UNIjpeg](https://github.com/user-attachments/assets/ea4c700f-40ef-4f91-a1cd-a80ac0f57674)
 
@@ -269,15 +268,14 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 
 - [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
  <img width="1290" height="986" alt="WhatsApp Image 2026-04-24 at 1 33 21 PM" src="https://github.com/user-attachments/assets/f491f63d-9ceb-4e49-aa8b-9f89872380bb" />
- <img width="1076" height="1080" alt="WhatsApp Image 2026-05-18 at 3 54 32 PM" src="https://github.com/user-attachments/assets/1bbe721e-b3ac-4f1e-970a-cc31efb18032" />
      
 - [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
       
 - [ ] Ready to build the future? Join Build with AI Kampala 2026 - Pre-Event 1 this weekend! Learn to prototype and deploy AI apps using Google tech. This will be held on Saturday, 16th May, 2026 from 10:00AM online.  RSVP here: ( https://bit.ly/BwAI-Pre-Event-1 )
 <img width="1200" height="1280" alt="WhatsApp Image 2026-05-15 at 9 37 02 AM" src="https://github.com/user-attachments/assets/fc27968e-f20c-4e12-bc3e-4e88fd0f09af" />
 
-- [ ] AgentCamp Mbarara is a community driven AI learning experience where developers and AI enthusiasts come together to explore the latest in AI agents, tools, and practical applications. Our goal is to help everyone learn, share knowledge, and build real world solutions with AI. This will be held on Tuesday 19th May 2026 at 12:00 PM in the CITT Co-Creation Lab at Mbarara University of Science and Technology.
-Learn more: ( https://globalai.community/agentcamp/mbarara/)
+- [ ] AgentCamp Mbarara is a community driven AI learning experience where developers and AI enthusiasts come together to explore the latest in AI agents, tools, and practical applications. Our goal is to help everyone learn, share knowledge, and build real world solutions with AI. This will be held on Tuesday 19th May 2026 at 12:00 PM in the CITT Co-Creation Lab at Mbarara University of Science and Technology. Learn more: ( https://globalai.community/agentcamp/mbarara/)
+ <img width="1076" height="1080" alt="WhatsApp Image 2026-05-18 at 3 54 32 PM" src="https://github.com/user-attachments/assets/1bbe721e-b3ac-4f1e-970a-cc31efb18032" />
 
 - [ ] The wait is over, WordCamp Kampala 2026 is officially here!This isn’t just another tech conference. It’s a shift in how we build, lead, and innovate within the WordPress ecosystem. This will happen on May 23rd & 24th, at ESAMI Bombo Road.Learn more: ( https://kampala.wordcamp.org/2026/)
 ![WC KAMPALA](https://github.com/user-attachments/assets/9fe0963f-4a37-47a5-8c51-c7a8bde89812)
