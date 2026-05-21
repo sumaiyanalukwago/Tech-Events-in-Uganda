@@ -125,7 +125,8 @@ Learn more: (https://youtube.com/live/UfvgmjBji4w?feature=share )
 Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUtNzRkZS00N2NiLWEyZTctNDMzODdhMWU4OGVl%40thread.v2/0?context=%7b%22Tid%22%3a%2258355f0b-de23-4f07-95a2-9b02060b90b7%22%2c%22Oid%22%3a%228b8c19e4-fdfb-49e5-9bb7-b1d6e3794dfb%22 )
 ![AI Employee-Driven Companies ](https://github.com/user-attachments/assets/6f88692a-0659-486b-a051-1c050185b655)
 
-- [ ] The Robotics for Good Youth Challenge will be running from 10 to 14th  March 2026 at Mkaerere Univeirsty Innovation Pod.Learn more: ( bit.ly/roboticsmuk )
+- [ ] The Robotics for Good Youth Challenge will be running from 10 to 14th March 2026 at Makerere Univeirsty Innovation Pod.
+Learn more: ( bit.ly/roboticsmuk )
 ![robotics for good ](https://github.com/user-attachments/assets/9ef1b54f-a5c6-47f5-94c8-9e7660de41c1)
  
 - [ ] Build with AI: Protecting Sensitive Data in Gen AI Model Responses. LDiscover essential strategies for safeguarding sensitive information within AI model outputs. This will take place on Wednesday 11th March, 2026 at  08:00 PM (EAT).
