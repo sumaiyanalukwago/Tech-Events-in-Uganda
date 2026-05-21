@@ -108,8 +108,7 @@ Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-maker
 Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
-- [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will be hold on Saturday March 21 at  10:00 AM (EAT). It will be held at Africa's Talking
-Learn more: (https://luma.com/jbo0dwas)
+- [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will be hold on Saturday March 21 at  10:00 AM (EAT). It will be held at Africa's Talking. Learn more: (https://luma.com/jbo0dwas)
 
 - [ ] Build with AI. Learn how AI is transforming the decentralised web and what opportunities it brings for developers and tech enthusiasts alike. This will run from 08:00 PM (EAT).
 Learn more: (https://tinyurl.com/bwai-ai-in-web3)
@@ -153,8 +152,7 @@ Learn more: ( https://docs.google.com/forms/d/e/1FAIpQLSdp8FQpJm2kmKKfeuh7ngw876
 Join the conversation and learn practical ways to stay ahead. This will be held Online on Saturday 21st March, 2026 at 08 AM EAT. Register here: ( https://bnionline.zoom.us/webinar/register/9017738192809/WN_SpLa4qAXSYKMivdQ_hegNA )
 ![WISE](https://github.com/user-attachments/assets/7429460a-f005-4136-bd37-5f1fe42577a2)
 
-- [ ] Looking to streamline your sales processes and gain better visibility into your customer relationships? Join our Zoho CRM session and learn how to effectively manage leads, automate workflows, track deals, and drive business growth with Zoho CRM. This session is ideal for business owners, sales teams, marketing professionals, and anyone looking to enhance their CRM skills with practical, hands-on experience.We will begin by exploring why a CRM is essential for modern business operations and then move into a hands-on session to demonstrate how it works in practice and what it looks like in a real business environment. This will be held online on Tuesday 24th March 2026 at 12:30 PM EAT.
-Register here:( https://bit.ly/ZOHOCRM2026Webinar )
+- [ ] Looking to streamline your sales processes and gain better visibility into your customer relationships? Join our Zoho CRM session and learn how to effectively manage leads, automate workflows, track deals, and drive business growth with Zoho CRM. This session is ideal for business owners, sales teams, marketing professionals, and anyone looking to enhance their CRM skills with practical, hands-on experience.We will begin by exploring why a CRM is essential for modern business operations and then move into a hands-on session to demonstrate how it works in practice and what it looks like in a real business environment. This will be held online on Tuesday 24th March 2026 at 12:30 PM EAT. Register here:( https://bit.ly/ZOHOCRM2026Webinar )
 ![ZOHO](https://github.com/user-attachments/assets/c4847b90-116d-43be-9f11-602b48d78784)
 
 - [ ] Join us for an exciting GitHub Campus Experts x GDG Info Session.This session will introduce students to opportunities within the GitHub and GDG communities, including how to grow as a developer, collaborate on real-world projects, and access exclusive student resources. Our guest speaker, Kato Trevor, will share insights from his journey as a GitHub Campus Expert and guide you on how to leverage tech communities for career growth. This session will take place on Wednesday 25th March,2026 in the Main Computer Lab, Kabale University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more:(https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-github-campus-experts-x-gdg-info-session/)
