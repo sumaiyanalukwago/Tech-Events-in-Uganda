@@ -227,8 +227,7 @@ This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https:
   
 ## May
 
- - [ ] Kampala Devops Community is hosting a webinar focused on Implementing Security by Design Principles in Containerized Applications. In the world of fast-paced deployment, shipping containerized applications at speed is a superpower. But if security is just an afterthought tacked onto the end of your pipeline, you’re playing a risky game against evolving enterprise threats. It’s time to move past reactive patching and master the art of shifting left. Join in and learn how to build better secure architecture. Session will be on Saturday 23rd May 2026.
-Session to be conducted using Microsoft Teams webinar. Register here: ( https://www.kampaladevops.org/events )
+ - [ ] Kampala Devops Community is hosting a webinar focused on Implementing Security by Design Principles in Containerized Applications. In the world of fast-paced deployment, shipping containerized applications at speed is a superpower. But if security is just an afterthought tacked onto the end of your pipeline, you’re playing a risky game against evolving enterprise threats. It’s time to move past reactive patching and master the art of shifting left. Join in and learn how to build better secure architecture. This will be held online on Saturday 23rd May 2026. Register here: ( https://www.kampaladevops.org/events )
 <img width="1080" height="1080" alt="KDC-Webinar-3-2026" src="https://github.com/user-attachments/assets/6a13bb2f-f74c-4fdc-b098-1d9d331cdb35" />
 
 
