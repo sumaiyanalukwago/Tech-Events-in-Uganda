@@ -162,8 +162,7 @@ Join the conversation and learn practical ways to stay ahead. This will be held 
 This session will take place on Thursday 26th March,2026 Online from 05:00 PM – 7:00 PM (EAT). Learn more:( https://bit.ly/buildwithaiug )
 ![BUILDATHON](https://github.com/user-attachments/assets/d0ec9cae-4ecb-4c46-9673-7c54da45a82d)
 
-- [ ] Systems Thinking and Data: GNNs and their applications. With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology.
-GNN models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks.
+- [ ] Systems Thinking and Data: GNNs and their applications. With multiple components and relations, financial data are often presented as graph data, since it could represent both the individual features and the complicated relations. Due to the complexity and volatility of the financial market, the graph constructed on the financial data is often heterogeneous or time-varying, which imposes challenges on modeling technology. GNN models are able to handle the complex graph structure and achieve great performance and thus could be used to solve financial tasks.
 In this tutorial, attendees shall learn the foundations of graph representation learning and their applications through use cases. This will be held at UNIPOD,  Makerere University, on Friday 27th March, 2026 at 5:30PM EAT. Learn more: (https://forms.gle/ewcqMW6pGR9qqzbR6 )
 ![pydata](https://github.com/user-attachments/assets/ea9a4970-9522-4958-98a7-b5e9c916bc59)
 
