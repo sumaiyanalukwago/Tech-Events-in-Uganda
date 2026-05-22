@@ -298,7 +298,7 @@ Learn more: ( www.vu.ac.ug )
 - [ ] Did you know you can build multilingual AI systems like chatbots and voice assistants using African language models through Fasiri? 
 Fasiri is a framework designed to make African language models easier for developers to access and build with. Join us on Wednesday 10th June 2026 at 02:00PM and be among the first developers to experience the Fasiri workflow before the world does.Register now:( 
 https://luma.com/0cwp89kv )
-
+<img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 
 - [ ] The Blockchain devfest will be happening on the 27th of June 2026 under the theme: Towards Responsible Decentralized AI. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 ![Blockchain devfest](https://github.com/user-attachments/assets/34884952-5f4b-468a-8752-91ee15f5c181)
