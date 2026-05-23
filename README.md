@@ -290,8 +290,8 @@ Learn more: ( www.vu.ac.ug )
 - [ ] Join us for our monthly Socratic seminar. This will be held at Africa's Talking Kampala on Friday 29th May 2026. Register now : ( https://clooza.com/events/BITDEVSKLA-MAY )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-18 at 10 51 40 AM" src="https://github.com/user-attachments/assets/dc8e6fba-cadd-460a-a95c-b451f49aab8e" />
 
-- [ ] Join us for the official launch of Nylon Pay,a payments SDK built to help African developers and startups accept payments faster, easier, and with less complexity. This will be held on Friday 29th May 2026 at Africa's Talking,Kampala. Register now : ( https://clooza.com/events/BITDEVSKLA-MAY )
-<img width="1080" height="1080" alt="WhatsApp Image 2026-05-18 at 10 51 40 AM" src="https://github.com/user-attachments/assets/dc8e6fba-cadd-460a-a95c-b451f49aab8e" />
+- [ ] Join us for the official launch of Nylon Pay,a payments SDK built to help African developers and startups accept payments faster, easier, and with less complexity. This will be held on Friday 29th May 2026 at Africa's Talking,Kampala. Register now:
+
 
 ## June
 
