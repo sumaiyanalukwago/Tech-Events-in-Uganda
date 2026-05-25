@@ -292,6 +292,10 @@ Learn more: ( www.vu.ac.ug )
 
 - [ ] Join us for the official launch of Nylon Pay,a payments SDK built to help African developers and startups accept payments faster, easier, and with less complexity. This will be held on Friday 29th May 2026 at Africa's Talking,Kampala. Register now: ( dub.sh/nylonpay-launch )
 
+- [ ] Join us for the official launch of Nylon Pay,a payments SDK built to help African developers and startups accept payments faster, easier, and with less complexity. This will be held on Friday 29th May 2026 at Africa's Talking,Kampala. Register now: ( dub.sh/nylonpay-launch )
+
+https://bit.ly/buildwithaiug
+
 
 ## June
 
