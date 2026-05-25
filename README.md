@@ -6,7 +6,7 @@ Welcome to the centralized hub for all things tech in Uganda. This repository is
 
 Social media feeds move fast, and important events often get buried. This repository serves as a permanent, searchable, and collaborative record to ensure no developer or tech enthusiast in Uganda misses out on growth opportunities.
  
-Every link in this repository includes a date and time when a particular event will be happening alongside the venue. The events are arranged according to months  
+Every link in this repository includes a date and time when a particular event will be happening alongside the venue.  The events are arranged according to months  
 
 ## To get the most out of this directory, do this:
 - Browse the whole list by scrolling down to the Upcoming events section to see a chronological list of  the tech gatherings
