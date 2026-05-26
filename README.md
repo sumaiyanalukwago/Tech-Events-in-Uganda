@@ -294,7 +294,6 @@ Learn more: ( www.vu.ac.ug )
 
 - [ ] Ready to dive into the latest Google AI technologies? Whether you're just starting out or you're a seasoned pro, this focused pilot event is designed to help you level up your AI skills. Join us for Build with AI Kampala this Saturday 30th May 20206 at the National ICT Innovation Hub, Nakawa. It starts at  08:00 AM (EAT) Register here: ( https://bit.ly/buildwithaiug )
 <img width="1200" height="1280" alt="WhatsApp Image 2026-05-25 at 8 39 12 PM" src="https://github.com/user-attachments/assets/549ed91f-8474-4e27-9e97-478ee77a7353" />
-
   
 
 ## June
@@ -313,22 +312,8 @@ https://luma.com/0cwp89kv )
 
 - [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spot now via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
 
-We’re excited to officially open registrations for the Build with AI Makerere Hackathon, organized by GDG on Campus Makerere University, in partnership with MLH, Google Build with AI, Gemini & Google Cloud!
+- [ ] We are excited to officially open registrations for the Build with AI Makerere Hackathon, organized by GDG on Campus Makerere University, in partnership with MLH, Google Build with AI, Gemini & Google Cloud. This will be held on Saturday June 27, 2026 starting at 09:00 AM ( EAT ). Register here 👇 https://events.mlh.com/events/14316-build-with-ai-makerere-hackathon
 
-- Learn Gemini APIs & Google AI Studio
-- Build and deploy AI projects
-- Team up with other students
-- Win prizes, swag & certificates
-- Beginner-friendly, no prior hackathon experience required
-
-📅 Date: June 27, 2026
-⏰ Time: 9:00 AM – 1:00 PM
-📍 To be annouced soon
-
-Register here 👇
-https://events.mlh.com/events/14316-build-with-ai-makerere-hackathon
-
-Invite your friends and come build with AI 🚀
 
 - [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
