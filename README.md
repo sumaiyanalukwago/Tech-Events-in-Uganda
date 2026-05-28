@@ -292,7 +292,9 @@ Learn more: ( www.vu.ac.ug )
 
 - [ ] Join us for the official launch of Nylon Pay,a payments SDK built to help African developers and startups accept payments faster, easier, and with less complexity. This will be held on Friday 29th May 2026 at Africa's Talking,Kampala. Register now: ( dub.sh/nylonpay-launch )
 
-- [ ] Join us this Friday for the May PyData meetup as we tackle Africa's data gaps with scalable, reproducable AI pipelines. This will be held on Friday 29th May 2026 at UNIPOD,Makerere University,Kampala starting at 5:30 PM. 
+- [ ] Join us this Friday for the May PyData meetup as we tackle Africa's data gaps with scalable, reproducable AI pipelines. This will be held on Friday 29th May 2026 at UNIPOD,Makerere University,Kampala starting at 5:30 PM.
+<img width="2560" height="2548" alt="WhatsApp Image 2026-05-28 at 7 47 40 PM" src="https://github.com/user-attachments/assets/4acbdee5-0873-4554-839f-91f3a7ddcd85" />
+
 
 - [ ] Ready to dive into the latest Google AI technologies? Whether you're just starting out or you're a seasoned pro, this focused pilot event is designed to help you level up your AI skills. Join us for Build with AI Kampala this Saturday 30th May 20206 at the National ICT Innovation Hub, Nakawa. It starts at  08:00 AM (EAT) Register here: ( https://bit.ly/buildwithaiug )
 
