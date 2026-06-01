@@ -24,7 +24,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026. Apply for the course here: https://refactory.typeform.com/to/Qyx6jwXa  and apply for the 10X Program Scholarship here: https://refactory.typeform.com/10XMopUp
   ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
 
-- The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
+- [ ] The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
  Register to attend: ([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://tinyurl.com/aifest2026Muk)
 ![AI FEST 2026](https://github.com/user-attachments/assets/d5352c94-75aa-440c-801d-68ed9e5a2802)
 
@@ -55,6 +55,7 @@ This month, we’re diving into the cutting-edge features of Django 6.0, specifi
 <img width="1587" height="2245" alt="JAN 1 MEETUP" src="https://github.com/user-attachments/assets/35c3408b-e2b5-4928-9002-452e0ecb6491" />
 
 ## February
+
 - [ ] Build with Google AI Studio. Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build! This will be held on Saturday, 7th February 2026 at 6:00 PM
 ![Register here](https://tinyurl.com/buildwithAIStudio)
 ![event](https://github.com/user-attachments/assets/a950513e-ee92-4744-8b31-0921384b217b)
