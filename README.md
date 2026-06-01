@@ -336,10 +336,7 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 
 ## October
 
-- [ ] We are excited to announce the 8th FITSPA Annual Fintech Conference 2026 under the theme, “Scaling Fintech Innovation for Inclusive Growth and a Resilient Digital Economy,” the Conference will convene over 700 stakeholders from across the fintech ecosystem, including regulators, financial institutions, investors, digital infrastructure providers, development partners, innovators, and academia.
-, scheduled for 6–7 October 2026 at the Sheraton Hotel, Kampala, Uganda.
-
-
+- [ ] We are excited to announce the 8th FITSPA Annual Fintech Conference 2026 under the theme, “Scaling Fintech Innovation for Inclusive Growth and a Resilient Digital Economy,” the Conference will convene over 700 stakeholders from across the fintech ecosystem, including regulators, financial institutions, investors, digital infrastructure providers, development partners, innovators, and academia. This is scheduled to run from 6–7 October 2026 at the Sheraton Hotel, Kampala, Uganda.
 📩 To learn more or explore how best you can participate, contact us at info@fitspa.ug.
 
 
