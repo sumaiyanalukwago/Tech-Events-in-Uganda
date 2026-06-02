@@ -311,7 +311,7 @@ https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 
 - [ ] Join us for a hands-on Cursor workshop designed to help students and developers build faster using AI-powered development tools.In this session, participants will learn how to use Cursor to accelerate software development, understand codebases, generate code, debug applications, and improve productivity while building real-world projects.Join us on Saturday 20th June 2026 at 08:30am EAT at Makerere Univeristy. Register now:(https://luma.com/cursor-t39m )
-<img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
+
 ​
 
 - [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spot now via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
