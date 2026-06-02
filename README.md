@@ -310,7 +310,7 @@ Fasiri is a framework designed to make African language models easier for develo
 https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 
-- [ ] Join us for a hands-on Cursor workshop designed to help students and developers build faster using AI-powered development tools.In this session, participants will learn how to use Cursor to accelerate software development, understand codebases, generate code, debug applications, and improve productivity while building real-world projects.. Join us on Wednesday 10th June 2026 at 02:00PM EAT and be among the first developers to experience the Fasiri workflow before the world does. Register now:( 
+- [ ] Join us for a hands-on Cursor workshop designed to help students and developers build faster using AI-powered development tools.In this session, participants will learn how to use Cursor to accelerate software development, understand codebases, generate code, debug applications, and improve productivity while building real-world projects.Join us on Saturday 20th June 2026 at 08:30am EAT at Makerere Univeristy. Register now:( 
 https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 ​
