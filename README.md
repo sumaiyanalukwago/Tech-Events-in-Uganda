@@ -188,8 +188,7 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT). Register here: ( h
 
 - [ ] Introduction to Stitch: Deploy with Google AI Studio. In this session, you will get a hands-on introduction to Stitch and learn how to deploy AI-powered applications using Google AI Studio. Whether you're just getting started with AI or already building, this session will walk you through practical workflows to take your ideas from development to deployment. This will be held in the Main Computer Lab,Kabale University on Wednesday 15th April 2026 at 06:00 PM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-introduction-to-stitch-deploy-with-google-ai-studio/ )
 
-- [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you.
-This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
+- [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you. This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
 
 - [ ] Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian 
