@@ -303,12 +303,16 @@ Learn more: ( www.vu.ac.ug )
 
 - [ ] International Conference on Cloud Computing and GIS Solutions, organized by IIRD, held in Kampala, Uganda on Tuesday 2nd June, 2026. Learn more: ([https://globalai.community/chapters/kampala/events/agentcon-kampala/](https://iirdglobal.com/events/index.php?id=100646401)
       
-- [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
-      
 - [ ] Did you know you can build multilingual AI systems like chatbots and voice assistants using African language models through Fasiri? 
 Fasiri is a framework designed to make African language models easier for developers to access and build with. Join us on Wednesday 10th June 2026 at 02:00PM EAT and be among the first developers to experience the Fasiri workflow before the world does. Register now:( 
 https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
+
+- [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter.
+
+​Date: Friday, 19th June, 2026
+Time: 10:00 AM – 12:00 PM
+Venue: Conference Room, Block A Level 4, Makerere University
 
 - [ ] Join us for a hands-on Cursor workshop designed to help students and developers build faster using AI-powered development tools.In this session, participants will learn how to use Cursor to accelerate software development, understand codebases, generate code, debug applications, and improve productivity while building real-world projects.Join us on Saturday 20th June 2026 at 08:30am EAT at Makerere Univeristy. Register now:(https://luma.com/cursor-t39m )
 <img width="1600" height="639" alt="WhatsApp Image 2026-06-02 at 12 02 53 PM" src="https://github.com/user-attachments/assets/1937c1fc-2c35-40da-8af0-4cecf38b8e4c" />
@@ -320,6 +324,8 @@ https://luma.com/0cwp89kv )
 
 - [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
+
+- [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
 - [ ] The Blockchain Devfest Hackathon 2026.​ The future isn't just automated; it’s decentralized. As part of Blockchain DevFest 2026, we are calling all developers, data scientists, and blockchain enthusiasts to bridge the gap between AI and Web3. This will be held on Monday 29th June, 2026. Learn more: (https://luma.com/lurbu653 )
 ![fd92a707-7436-422d-a8e9-a10d3156c103](https://github.com/user-attachments/assets/6fc6ae47-3e5a-4490-8bb8-560ea070e808)
