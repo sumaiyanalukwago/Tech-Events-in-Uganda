@@ -305,9 +305,7 @@ Fasiri is a framework designed to make African language models easier for develo
 https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 
-- [ ] Join us for an incredible, hands-on session with Lincoln Angufibo as we continue to dive deep into the core architectural patterns every backend developer needs to know. Views & Microservices,Function-Based Views (FBVs),Class-Based Views (CBVs),Monoliths vs. Microservices,API Gateways, REST, gRPC & Async Message Brokers. This will be held on Saturday, 13th June 2026 
-🕘 Time: 09:00 AM EAT 
-📍 Location: Africa's Talking, Acacia Avenue, Kampala 
+- [ ] Join us for an incredible, hands-on session with Lincoln Angufibo as we continue to dive deep into the core architectural patterns every backend developer needs to know. Views & Microservices,Function-Based Views (FBVs),Class-Based Views (CBVs),Monoliths vs. Microservices,API Gateways, REST, gRPC & Async Message Brokers. This will be held on Saturday, 13th June 2026 starting  at 09:00 AM EAT  and will be held at Africa's Talking, Acacia Avenue, Kampala 
 Signup: https://forms.gle/qMXX5qceCaLHdGXFA
 Bring your curiosity, your questions, and your laptop! Let's learn, connect, and build together.
 This is a session you won't want to miss!
