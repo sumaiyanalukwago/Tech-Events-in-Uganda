@@ -36,7 +36,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ![WhatsApp Image 2026-01-07 at 4 11 20 PM](https://github.com/user-attachments/assets/28bad1e8-46ad-441e-a735-f790a0381856)
 
 - [ ] AWS Cloud Club Meetup. Registration deadline: 12th January 2026. Click the link to register:
-(https://www.meetup.com/aws-cloud-club-at-makerere-university/)The session will be held on Tuesday 13th January 2026.
+(https://www.meetup.com/aws-cloud-club-at-makerere-university/) The session will be held on Tuesday 13th January 2026.
 ![WhatsApp Image 2026-01-09 at 4 38 54 PM]
 (https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 
@@ -66,7 +66,7 @@ This month, we’re diving into the cutting-edge features of Django 6.0, specifi
 Learn more: https://luma.com/0uz1z8q1
  ![build games ug](https://github.com/user-attachments/assets/d627d168-bb5a-4c54-bd79-83db874b92e3)
 
- - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and *we need your skills.
+ - [ ] JavaScript Kampala meetup. This will be the first 2026 meetup and it isn't just about listening. it's about building. We are dedicating this session to revamping the official JavaScript Community Uganda website, and we need your skills.
 ![JS Kamapala Meetup](https://github.com/user-attachments/assets/bd207f08-832b-4058-aa5c-fefdb7023052)
 Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 02:00PM (EAT) at Africa's Talking, Acacia Place.
 
