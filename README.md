@@ -307,11 +307,8 @@ https://luma.com/0cwp89kv )
 
 Join us for our 2G Meets AI Women in Tech Meetup. We are excited to bring together women in tech, innovators, and AI enthusiasts to explore how Artificial Intelligence is shaping the future across generations.
 This will happen on Thursday 11th June 2026 from 05:00 PM EAT at Africa’s Talking, Acacia Place, Kampala. Learn more: ( )
-📅 11th June 2026 | 🕔 5:00 PM – 8:00 PM
-📍 Africa’s Talking, Acacia Place, Kampala
-
-👉 Kindly log in to the Africa’s Talking community platform and RSVP to secure your spot:
 https://community.africastalking.com/e/m2q5en/
+
 - [ ] Join us for an incredible, hands-on session with Lincoln Angufibo as we continue to dive deep into the core architectural patterns every backend developer needs to know. Views & Microservices,Function-Based Views (FBVs),Class-Based Views (CBVs), Monoliths vs. Microservices,API Gateways, REST, gRPC & Async Message Brokers. This will be held on Saturday, 13th June 2026 starting  at 09:00 AM EAT  and will be held at Africa's Talking, Acacia Avenue, Kampala. Register here: ( https://forms.gle/qMXX5qceCaLHdGXFA )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-06 at 9 32 23 AM" src="https://github.com/user-attachments/assets/009d4f9e-bb83-4f5d-a251-e6cebbe20daa" />
 
