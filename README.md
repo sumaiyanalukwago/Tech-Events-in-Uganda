@@ -74,8 +74,7 @@ Whether you are a React pro, a UI designer, or a newbie looking to make your fir
 Register here: https://tinyurl.com/pyladies-meetup
 ![PYLADIES FEB](https://github.com/user-attachments/assets/c9422f35-1e7b-4f2f-8d11-0441f29d1dce)
 
-- [ ] Kampala DevOps Community kickstarts the year with its first webinar. In this Microsoft Teams webinar, we shall be diving into Linux fundamentals and bash scripting. Our featured guest speaker is Kazooba Lawrence. This session will be happening on Monday 16th February 2026 (Archbishop Janani Luwum Day) starting at 10AM.
-Register here: https://www.kampaladevops.org/events
+- [ ] Kampala DevOps Community kickstarts the year with its first webinar. In this Microsoft Teams webinar, we shall be diving into Linux fundamentals and bash scripting. Our featured guest speaker is Kazooba Lawrence. This session will be happening on Monday 16th February 2026 (Archbishop Janani Luwum Day) starting at 10AM. Register here: https://www.kampaladevops.org/events
 <img width="1080" height="1080" alt="KDC-Webinar-1-2026" src="https://github.com/user-attachments/assets/bb06d96f-be94-426c-8f9d-11adffba80c8" />
 
 - [ ] We are excited to announce our upcoming webinar: “Inside the Mind of a Top Bug Bounty Hunter.” Join us for an exclusive session with Harrison Ogunye, CISA, an experienced cybersecurity researcher, as he shares insights into the world of bug bounties, vulnerability research, and what it takes to succeed in the field. This will be held on Wednesday  at 2:00 PM EAT | 12:00 PM CAT Online. 
