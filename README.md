@@ -108,8 +108,7 @@ Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 
 - [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will be hold on Saturday March 21 at  10:00 AM (EAT). It will be held at Africa's Talking. Learn more: (https://luma.com/jbo0dwas)
 
-- [ ] Build with AI. Learn how AI is transforming the decentralised web and what opportunities it brings for developers and tech enthusiasts alike. This will run from 08:00 PM (EAT).
-Learn more: (https://tinyurl.com/bwai-ai-in-web3)
+- [ ] Build with AI. Learn how AI is transforming the decentralised web and what opportunities it brings for developers and tech enthusiasts alike. This will run from 08:00 PM (EAT). Learn more: (https://tinyurl.com/bwai-ai-in-web3)
 ![AI in Web 3](https://github.com/user-attachments/assets/cf33f65e-044b-4a47-8fbe-8a9f8697aeac)
 
 - [ ] International Women's Day Jinja  under the theme "Break the Pattern" will be happening on the 21st of March 2026 at Jinja  Tech Hub. This will run from 09:00 AM  to 04:00PM(EAT). Learn more: ( https://bit.ly/IWDJinja2026-BreakThePattern )
