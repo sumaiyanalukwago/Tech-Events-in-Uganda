@@ -50,8 +50,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
   ![wordpress ](https://github.com/user-attachments/assets/3e88a44f-5bfe-4e6e-b239-2b6a31a6551a)
 
 - [ ] Ready to level up your Python web skills? Join PyKla for an interactive session where we bridge the gap between "Hello World" and modern, efficient web development.
-This month, we’re diving into the cutting-edge features of Django 6.0, specifically focusing on Template Partials. Learn how to build modular, reusable UI components that make your code cleaner and your apps faster. This session will be held on Saturday 31st Januray,2026 at 2:00 PM to 4:00 PM EAT. 
- Register here: ( https://www.meetup.com/pykampala/events/313092443/?slug=pykampala&eventId=313092443)
+This month, we’re diving into the cutting-edge features of Django 6.0, specifically focusing on Template Partials. Learn how to build modular, reusable UI components that make your code cleaner and your apps faster. This session will be held on Saturday 31st Januray,2026 at 2:00 PM to 4:00 PM EAT.  Register here: ( https://www.meetup.com/pykampala/events/313092443/?slug=pykampala&eventId=313092443)
 <img width="1587" height="2245" alt="JAN 1 MEETUP" src="https://github.com/user-attachments/assets/35c3408b-e2b5-4928-9002-452e0ecb6491" />
 
 ## February
