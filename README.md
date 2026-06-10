@@ -305,6 +305,17 @@ https://luma.com/0cwp89kv )
 - [ ] Join us for an incredible, hands-on session with Lincoln Angufibo as we continue to dive deep into the core architectural patterns every backend developer needs to know. Views & Microservices,Function-Based Views (FBVs),Class-Based Views (CBVs), Monoliths vs. Microservices,API Gateways, REST, gRPC & Async Message Brokers. This will be held on Saturday, 13th June 2026 starting  at 09:00 AM EAT  and will be held at Africa's Talking, Acacia Avenue, Kampala. Register here: ( https://forms.gle/qMXX5qceCaLHdGXFA )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-06 at 9 32 23 AM" src="https://github.com/user-attachments/assets/009d4f9e-bb83-4f5d-a251-e6cebbe20daa" />
 
+ - [ ] Join Us at Microsoft Build //localhost Mbarara 2026!
+Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development.
+📅 Date: Saturday, 13 June 2026
+⏰ Time: 08:00 AM – 01:00 PM (EAT)
+📍 Venue: The Innovation Village – Mbarara, Uganda
+
+Expect engaging technical sessions, practical demonstrations, networking opportunities, and discussions on how AI and emerging technologies are shaping the future.
+
+Whether you're a beginner, student, professional developer, researcher, or tech enthusiast, this event offers valuable insights and connections for everyone.
+Register now: https://globalai.community/e/rxs2g0eu
+
 - [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter. This session will be held on Friday, 19th June, 2026 from 10:00 AM – 12:00 PM EAT in the Conference Room, Block A Level 4, at Makerere University.
 <img width="540" height="960" alt="WhatsApp Image 2026-06-02 at 3 25 58 PM" src="https://github.com/user-attachments/assets/f752bd9a-97c5-4748-8255-02a592619623" />
 
