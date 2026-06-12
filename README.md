@@ -169,7 +169,7 @@ In this tutorial, attendees shall learn the foundations of graph representation 
 It will be held on Friday 3rd April 2026 from 10:00 AM (EAT). Register here: ( https://www.kampaladevops.org/events )
 ![KLA DEVOPS APRIL MEETUP](https://github.com/user-attachments/assets/6785f961-997c-465c-85ff-6672b0ae1a4f)
 
- - [ ] Join us for an exciting session designed to help you move beyond writing code locally and start building real-world, scalable applications. What you will learn: How to design and build APIs from scratch,Moving applications from local environments to the cloud,Best practices for scalability and deployment,Real-world developer workflows. It will be held on Thursday 9th April 2026 from 03:30 PM (EAT) Online. Register here: ( https://gdg.community.dev/e/mrd3zj/ )
+ - [ ] Join us for an exciting session designed to help you move beyond writing code locally and start building real-world, scalable applications. What you will learn: How to design and build APIs from scratch, Moving applications from local environments to the cloud,Best practices for scalability and deployment,Real-world developer workflows. It will be held on Thursday 9th April,2026 from 03:30 PM (EAT) Online. Register here: ( https://gdg.community.dev/e/mrd3zj/ )
  ![BWAImuk](https://github.com/user-attachments/assets/48084f45-b4f7-4de2-ba26-2ac21df12e44)
 
  - [ ] The University Robotics Training is for university students interested in World Robot Olympiad Uganda. It will be held on Wednesday 8th April 2026 from 09:00  AM (EAT) at Makerere University. Register here: ( https://form.jotform.com/260901139705050 )
