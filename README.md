@@ -118,7 +118,7 @@ Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 Learn more: (https://youtube.com/live/UfvgmjBji4w?feature=share )
 ![JS MEETUP MARCH](https://github.com/user-attachments/assets/d1c990ea-cbe8-4140-96f2-778db9225cca)
 
-- [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March 2026 from 03:30PM to 05:30PM (EAT)
+- [ ] Join us for a powerful session on how AI “employees” can transform your business operations, reduce revenue leakage, and eliminate operational inefficiencies. Learn why AI is not the starting point (diagnosis is), and how integrated AI systems outperform fragmented tools and manual teams. This will be held on Thursday 5th March,2026 from 03:30PM to 05:30PM (EAT)
 Learn more: (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmI2NTVlZGUtNzRkZS00N2NiLWEyZTctNDMzODdhMWU4OGVl%40thread.v2/0?context=%7b%22Tid%22%3a%2258355f0b-de23-4f07-95a2-9b02060b90b7%22%2c%22Oid%22%3a%228b8c19e4-fdfb-49e5-9bb7-b1d6e3794dfb%22 )
 ![AI Employee-Driven Companies ](https://github.com/user-attachments/assets/6f88692a-0659-486b-a051-1c050185b655)
 
