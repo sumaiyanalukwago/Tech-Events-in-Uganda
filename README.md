@@ -312,9 +312,7 @@ https://luma.com/0cwp89kv )
 - [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter. This session will be held on Friday, 19th June, 2026 from 10:00 AM – 12:00 PM EAT in the Conference Room, Block A Level 4, at Makerere University.
 <img width="540" height="960" alt="WhatsApp Image 2026-06-02 at 3 25 58 PM" src="https://github.com/user-attachments/assets/f752bd9a-97c5-4748-8255-02a592619623" />
 
-- [ ]  Women in Data Science (WiDS) Uganda Event. 
-
-Your AI model’s success is decided before a single line of training code runs. Join Philomena Mbura on 20 June at 12:00 PM EAT (Zoom). Free. Open to all. 
+- [ ] Your AI model’s success is decided before a single line of training code runs. Join Philomena Mbura on 20 June at 12:00 PM EAT (Zoom). Free. Open to all. 
 Register → https://lnkd.in/gK43TDrJ
 
 - [ ] Join us for a hands-on Cursor workshop designed to help students and developers build faster using AI-powered development tools.In this session, participants will learn how to use Cursor to accelerate software development, understand codebases, generate code, debug applications, and improve productivity while building real-world projects. Join us on Saturday 20th June 2026 at 08:30am EAT at Makerere Univeristy. Register now:(https://luma.com/cursor-t39m )
