@@ -321,7 +321,7 @@ https://luma.com/0cwp89kv )
 
 - [ ] JavaScript Kampala is bringing you the ultimate Dev Quiz Night! Whether you're a seasoned senior dev, a framework fanatic, or just starting your coding journey, this is your chance to flex your knowledge, network with the community, and grab some bragging rights. This will be held on Friday, 26th June 2026 starting at 07:00 PM onwards. Secure your spot now via:( https://ticketdaddy.io/ev/eventnsktewlXl9 ) <img width="1000" height="1200" alt="WhatsApp Image 2026-05-18 at 11 24 07 PM" src="https://github.com/user-attachments/assets/3af9cd29-f237-4d00-99bd-3071d5275af1" />
 
-- [ ] Webinar: FinOps 101 - Taking Control of Your Cloud Spend. In this webinar session, we shall break down how to stop overspending on the cloud and take control of your budget. We shall cover the basics of FinOps, show you how to track and analyze where your money goes, and share easy ways to spot and cut infrastructure waste. We shall also show you practical engineering steps to lower your bill without hurting app performance, ending with a quick live demo of the open-source Makao Agent for AWS.
+- [ ] FinOps 101 - Taking Control of Your Cloud Spend. In this webinar session, we shall break down how to stop overspending on the cloud and take control of your budget. We shall cover the basics of FinOps, show you how to track and analyze where your money goes, and share easy ways to spot and cut infrastructure waste. We shall also show you practical engineering steps to lower your bill without hurting app performance, ending with a quick live demo of the open-source Makao Agent for AWS.
 
 This session will happen on Saturday 20th June 2026 starting at 10:00 AM
 
