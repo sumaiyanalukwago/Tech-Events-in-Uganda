@@ -276,7 +276,7 @@ What you’ll learn: User Authentication (Login, Signup, Logout),Authorization &
 
 - [ ] Are you ready to explore the future of Artificial Intelligence and build real-world solutions using Google AI technologies? Get ready for Build with AI 2026, a global community initiative empowering developers to build intelligent solutions using the latest Google AI technologies. The pre-event  2 happening on 23rd May Prepares us for the main event.  Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-build-with-ai-kampala-2026-pre-event-2/ )
 
-- [ ]  The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
+- [ ] The Victoria University AI Launch is officially here. This isn’t just another training program. It’s a shift in how we learn, work, and innovate within the global digital economy. This will happen on May 25th 2026 at Victoria University.
 Learn more: ( www.vu.ac.ug )
 <img width="862" height="876" alt="WhatsApp Image 2026-04-30 at 4 09 28 PM" src="https://github.com/user-attachments/assets/8a6ff2ad-86fc-4fe2-a4e0-b214043811bf" />
 
