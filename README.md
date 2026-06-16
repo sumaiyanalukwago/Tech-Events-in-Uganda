@@ -324,7 +324,7 @@ https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="KDC-Webinar-4-2026" src="https://github.com/user-attachments/assets/0a78cf03-e65b-4252-8dcb-555fe4c5de1c" />
 
 - [ ] The BitDevs Kampala community invites you to the 11th edition of our Socratic Seminar. Join us for an open, discussion-driven forum where Bitcoin enthusiasts, developers, and the curious come together to learn, question, and deeply explore the technical, philosophical, and economic dimensions of Bitcoin. This will be held on Friday 26th June, 2026 at starting at
-05:30 PM (EAT). Register here: ( https://clooza.com/events/BITDEVSKLA-JUNE)
+05:00 PM (EAT). Register here: ( https://clooza.com/events/BITDEVSKLA-JUNE)
 
 
 - [ ] We are excited to officially open registrations for the Build with AI Makerere Hackathon, organized by GDG on Campus Makerere University, in partnership with MLH, Google Build with AI, Gemini & Google Cloud. This will be held on Saturday June 27, 2026 starting at 09:00 AM ( EAT ). Register here:( https://events.mlh.com/events/14316-build-with-ai-makerere-hackathon )
