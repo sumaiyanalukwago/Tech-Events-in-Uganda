@@ -327,7 +327,6 @@ https://luma.com/0cwp89kv )
 05:30 PM (EAT). Register here: ( https://clooza.com/events/BITDEVSKLA-JUNE)
 
 
-
 - [ ] We are excited to officially open registrations for the Build with AI Makerere Hackathon, organized by GDG on Campus Makerere University, in partnership with MLH, Google Build with AI, Gemini & Google Cloud. This will be held on Saturday June 27, 2026 starting at 09:00 AM ( EAT ). Register here:( https://events.mlh.com/events/14316-build-with-ai-makerere-hackathon )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-26 at 8 42 07 AM" src="https://github.com/user-attachments/assets/79d03a75-cb70-444f-a866-1f343ea0e6d0" />
 
