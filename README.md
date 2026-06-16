@@ -323,7 +323,9 @@ https://luma.com/0cwp89kv )
 - [ ] FinOps 101 - Taking Control of Your Cloud Spend. In this webinar session, we shall break down how to stop overspending on the cloud and take control of your budget. We shall cover the basics of FinOps, show you how to track and analyze where your money goes, and share easy ways to spot and cut infrastructure waste. We shall also show you practical engineering steps to lower your bill without hurting app performance, ending with a quick live demo of the open-source Makao Agent for AWS. This session will happen Online on Saturday 20th June, 2026 starting at 10:00 AM ( EAT ).  Learn more: ( https://www.kampaladevops.org/events)
 <img width="1080" height="1080" alt="KDC-Webinar-4-2026" src="https://github.com/user-attachments/assets/0a78cf03-e65b-4252-8dcb-555fe4c5de1c" />
 
-You're invited to bitdevs kampala june socratic seminar! 🎉
+- [ ] 
+ 
+ You're invited to bitdevs kampala june socratic seminar! 🎉
 
 The BitDevs Kampala community invites you to the 11th edition of our Socratic Seminar ! Join us for an open,...
 
