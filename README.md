@@ -67,7 +67,7 @@ Learn more: https://luma.com/0uz1z8q1
 ![JS Kamapala Meetup](https://github.com/user-attachments/assets/bd207f08-832b-4058-aa5c-fefdb7023052)
 Whether you are a React pro, a UI designer, or a newbie looking to make your first Open Source contribution, this is the event for you. It will be held on Saturday 7th February 2026 from 02:00PM (EAT) at Africa's Talking, Acacia Place.
 
-- [ ] Building Clean, Reliable Code in the AI Era with Africa's Talking Open Community. AI is changing how we build software. Join us at Africa’s Talking Kampala for a deep dive into AI-assisted coding, clean architecture, and writing reliable code in the age of Cursor, Codex, and Claude. Featuring Ernest Okot, this session explores how developers stay relevant and build quality in the AI era. This will be held at Africa's Talking , Acacia Avenue, on Thursday 12th February 2026 at 05:30 PM EAT.
+- [ ] Building clean, Reliable code in the AI Era with Africa's Talking Open Community. AI is changing how we build software. Join us at Africa’s Talking Kampala for a deep dive into AI-assisted coding, clean architecture, and writing reliable code in the age of Cursor, Codex, and Claude. Featuring Ernest Okot, this session explores how developers stay relevant and build quality in the AI era. This will be held at Africa's Talking , Acacia Avenue, on Thursday 12th February 2026 at 05:30 PM EAT.
 
 - [ ] The PyLadies Kampala meetup is back in action. Kick off 2026 with us as we dive into "Python Web Fundamentals with Asio Brenda. This will be held at Africa's Talking - Acacia Avenue on Saturday 14th February 2026 at 09 AM EAT.
 Register here: https://tinyurl.com/pyladies-meetup
