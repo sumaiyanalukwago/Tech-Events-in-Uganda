@@ -309,10 +309,8 @@ https://luma.com/0cwp89kv )
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
- - [ ] The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on Friday June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip. 
-
-Join the Zoom: https://bit.ly/4owMpAa
-
+ - [ ] The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on Friday June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip. Join the Zoom: ( https://bit.ly/4owMpAa )
+       
 - [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter. This session will be held on Friday, 19th June, 2026 from 10:00 AM – 12:00 PM EAT in the Conference Room, Block A Level 4, at Makerere University.
 <img width="540" height="960" alt="WhatsApp Image 2026-06-02 at 3 25 58 PM" src="https://github.com/user-attachments/assets/f752bd9a-97c5-4748-8255-02a592619623" />
 
