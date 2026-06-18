@@ -310,18 +310,8 @@ https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
  - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth.
-
-The evening will also recognize and celebrate the graduates of the inaugural FITSPA Women Fellowship and Mentorship Program while highlighting the achievements of women who are shaping the future of digital finance.
-
-🎙️ 𝐒𝐩𝐞𝐚𝐤𝐞𝐫𝐬
-* Dr. Shamim K. Namatovu – Chief Executive Officer, Discovery Limited
-* Ms. Jessica Valerie Tusiime – Country Director, PawaPay
-* Ms. Fiona Kirabo – Business Management and Talent Strategy Leader
-
-🎤  𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐨𝐫
-* Ms. Pamella Nakawooya – Customer Experience Lead, True African (U) Ltd
-
-📅 Friday, 19th June 2026
+This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. 
+📅 Friday, 
 🕓 4:00 PM – 7:00 PM
 📍 Protea Hotel, Kololo
 
