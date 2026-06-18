@@ -309,6 +309,24 @@ https://luma.com/0cwp89kv )
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
+ - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth.
+
+The evening will also recognize and celebrate the graduates of the inaugural FITSPA Women Fellowship and Mentorship Program while highlighting the achievements of women who are shaping the future of digital finance.
+
+🎙️ 𝐒𝐩𝐞𝐚𝐤𝐞𝐫𝐬
+* Dr. Shamim K. Namatovu – Chief Executive Officer, Discovery Limited
+* Ms. Jessica Valerie Tusiime – Country Director, PawaPay
+* Ms. Fiona Kirabo – Business Management and Talent Strategy Leader
+
+🎤  𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐨𝐫
+* Ms. Pamella Nakawooya – Customer Experience Lead, True African (U) Ltd
+
+📅 Friday, 19th June 2026
+🕓 4:00 PM – 7:00 PM
+📍 Protea Hotel, Kololo
+
+🔗 Register to attend: https://forms.gle/TymQCSVXHkGYXqgGA
+
  - [ ] The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on Friday June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip. Join the Zoom: ( https://bit.ly/4owMpAa )
 <img width="1043" height="1280" alt="WhatsApp Image 2026-06-17 at 13 52 51" src="https://github.com/user-attachments/assets/acce68bc-3345-499b-ac6b-80e0446aa3af" />
 
@@ -336,7 +354,6 @@ https://luma.com/0cwp89kv )
 
 - [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
-
 
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
