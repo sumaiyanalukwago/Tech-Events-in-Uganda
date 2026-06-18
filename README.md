@@ -310,11 +310,11 @@ https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
  - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth. This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. Register to attend: ( https://forms.gle/TymQCSVXHkGYXqgGA )
+<img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 10 11 06" src="https://github.com/user-attachments/assets/54d69b03-595f-42fb-9a2f-35607ae7aee7" />
 
  - [ ] The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on Friday June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip. Join the Zoom: ( https://bit.ly/4owMpAa )
 <img width="1043" height="1280" alt="WhatsApp Image 2026-06-17 at 13 52 51" src="https://github.com/user-attachments/assets/acce68bc-3345-499b-ac6b-80e0446aa3af" />
-
-       
+    
 - [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter. This session will be held on Friday, 19th June, 2026 from 10:00 AM – 12:00 PM EAT in the Conference Room, Block A Level 4, at Makerere University.
 <img width="540" height="960" alt="WhatsApp Image 2026-06-02 at 3 25 58 PM" src="https://github.com/user-attachments/assets/f752bd9a-97c5-4748-8255-02a592619623" />
 
