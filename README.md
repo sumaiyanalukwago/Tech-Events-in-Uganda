@@ -300,7 +300,7 @@ Fasiri is a framework designed to make African language models easier for develo
 https://luma.com/0cwp89kv )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/f75016e8-44fb-4600-935e-ac6de7ac602b" />
 
-- [ ] Join us for our 2G Meets AI Women in Tech Meetup. We are excited to bring together women in tech, innovators, and AI enthusiasts to explore how Artificial Intelligence is shaping the future across generations. This will happen on Thursday 11th June 2026 from 05:00 PM (EAT) at Africa’s Talking,Acacia Place, Kampala. Learn more: ( https://community.africastalking.com/e/m2q5en/ )
+- [ ] Join us for our 2G Meets AI Women in Tech Meetup. We are excited to bring together women in tech, innovators, and AI enthusiasts to explore how Artificial Intelligence is shaping the future across generations. This will happen on Thursday 11th June 2026 from 05:00 PM (EAT) at Africa’s Talking, Acacia Place, Kampala. Learn more: ( https://community.africastalking.com/e/m2q5en/ )
 <img width="1600" height="1600" alt="WhatsApp Image 2026-06-12 at 11 47 48 AM" src="https://github.com/user-attachments/assets/726b0278-c399-4ee7-8822-090aaa8cc0c1" />
 
 - [ ] Join us for an incredible, hands-on session with Lincoln Angufibo as we continue to dive deep into the core architectural patterns every backend developer needs to know. Views & Microservices,Function-Based Views (FBVs),Class-Based Views (CBVs), Monoliths vs. Microservices,API Gateways, REST, gRPC & Async Message Brokers. This will be held on Saturday, 13th June 2026 starting  at 09:00 AM EAT  and will be held at Africa's Talking, Acacia Avenue, Kampala. Register here: ( https://forms.gle/qMXX5qceCaLHdGXFA )
@@ -308,6 +308,14 @@ https://luma.com/0cwp89kv )
 
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
+
+The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip.
+
+Hosted under our Tech Talent Programme, the session will equip students with foundational cybersecurity knowledge, practical industry insights, and guidance on building a career in the digital space.
+
+We highly encourage students to register and take advantage of this learning opportunity.
+
+Join the Zoom: https://bit.ly/4owMpAa
 
 - [ ] Join us for an exciting session on Winnable Issues & Logos Blockchain, where we'll explore real community challenges, discover how decentralized technologies can drive meaningful change, and turn ideas into action. Come ready to learn, collaborate, and help shape solutions that matter. This session will be held on Friday, 19th June, 2026 from 10:00 AM – 12:00 PM EAT in the Conference Room, Block A Level 4, at Makerere University.
 <img width="540" height="960" alt="WhatsApp Image 2026-06-02 at 3 25 58 PM" src="https://github.com/user-attachments/assets/f752bd9a-97c5-4748-8255-02a592619623" />
