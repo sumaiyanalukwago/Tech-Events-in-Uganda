@@ -309,13 +309,7 @@ https://luma.com/0cwp89kv )
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
- - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth.
-This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. 
-📅 Friday, 
-🕓 4:00 PM – 7:00 PM
-📍 Protea Hotel, Kololo
-
-🔗 Register to attend: https://forms.gle/TymQCSVXHkGYXqgGA
+ - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth. This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. Register to attend: ( https://forms.gle/TymQCSVXHkGYXqgGA )
 
  - [ ] The CIO-CXO Digital Leadership Forum is calling university students for an online mentorship session on "Cybersecurity Fundamentals for Practitioners" on Friday June 19 at 2:00 PM (East African Time), facilitated by Moureen Namugumya, Ephraim  Malinga and Muhairwe Barnice Phillip. Join the Zoom: ( https://bit.ly/4owMpAa )
 <img width="1043" height="1280" alt="WhatsApp Image 2026-06-17 at 13 52 51" src="https://github.com/user-attachments/assets/acce68bc-3345-499b-ac6b-80e0446aa3af" />
