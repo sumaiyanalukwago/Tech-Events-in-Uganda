@@ -339,9 +339,8 @@ https://luma.com/0cwp89kv )
 - [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.
 Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
 
-- [ ] Join us for an insightful virtual session with Engineer Raoul from Cameroon as we explore how Large Language Models (LLMs) can be developed for African languages, many of which remain underrepresented in modern AI systems. Learn about the challenges of working with limited data, techniques for building and fine-tuning language models, and the opportunities AI presents for preserving and advancing African languages in the digital age.
-
-​Whether you're a student, developer, researcher, or AI enthusiast, this session will provide practical insights into Natural Language Processing (NLP), machine learning, and the future of inclusive AI for Africa.
+- [ ] Join us for an insightful virtual session with Engineer Raoul from Cameroon as we explore how Large Language Models (LLMs) can be developed for African languages, many of which remain underrepresented in modern AI systems. Learn about the challenges of working with limited data, techniques for building and fine-tuning language models, and the opportunities AI presents for preserving and advancing African languages in the digital age. This will be held on Monday, June 29 2026 starting at 5:00 PM ( EAT ) online. Register here: (  https://luma.com/2l5cdyyb )
+ - 6:00 PM
 
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
