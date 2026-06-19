@@ -312,8 +312,7 @@ https://luma.com/0cwp89kv )
  - [ ] Join us for an engaging discussion featuring: Ms. Joy Tiko,Software Developer | AI & Machine Learning Enthusiast | Lecturer at MUBS
 Topic: Innovation, Entrepreneurship, and Digital Business in the Age of AI and Mr. Solomon Opio GDG Lead Kampala | CEO, Soltech Digital Solutions. Topic: How Technology is Creating New Career Opportunities for Business Students.
 This will be held on Wednesday 18th June 2026 at 07:00 PM (EAT) online. Register here:( https://luma.com/ll9739fg)
-
-
+<img width="1024" height="1280" alt="WhatsApp Image 2026-06-18 at 16 26 13" src="https://github.com/user-attachments/assets/b62ef223-1de7-4ac9-b5e9-11aa3212cfe9" />
 
  - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth. This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. Register to attend: ( https://forms.gle/TymQCSVXHkGYXqgGA )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 10 11 06" src="https://github.com/user-attachments/assets/54d69b03-595f-42fb-9a2f-35607ae7aee7" />
