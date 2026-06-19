@@ -153,7 +153,7 @@ Join the conversation and learn practical ways to stay ahead. This will be held 
 ![ZOHO](https://github.com/user-attachments/assets/c4847b90-116d-43be-9f11-602b48d78784)
 
 - [ ] Join us for an exciting GitHub Campus Experts x GDG Info Session.This session will introduce students to opportunities within the GitHub and GDG communities, including how to grow as a developer, collaborate on real-world projects, and access exclusive student resources. Our guest speaker, Kato Trevor, will share insights from his journey as a GitHub Campus Expert and guide you on how to leverage tech communities for career growth. This session will take place on Wednesday 25th March,2026 in the Main Computer Lab, Kabale University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more:(https://gdg.community.dev/events/details/google-gdg-on-campus-kabale-university-kabale-uganda-presents-github-campus-experts-x-gdg-info-session/)
- ![GITHUb KABALE](https://github.com/user-attachments/assets/b2071a4b-3c47-4f9f-a847-c15cca99ea58)
+![GITHUb KABALE](https://github.com/user-attachments/assets/b2071a4b-3c47-4f9f-a847-c15cca99ea58)
 
 - [ ] Dive into Google AI (Gemini & AI Studio) in a fast-paced, 120-minute event! Open to all skill levels.The Challenge:You get 60 minutes of rapid coding to build an AI solution for Agriculture, Education, Social Good, or Finance. No pre-work needed—just bring your laptop! Free cloud credits, hands-on building, and awards for the top projects.
 This session will take place on Thursday 26th March,2026 Online from 05:00 PM – 7:00 PM (EAT). Learn more:( https://bit.ly/buildwithaiug )
