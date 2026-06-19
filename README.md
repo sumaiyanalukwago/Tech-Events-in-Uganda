@@ -309,6 +309,26 @@ https://luma.com/0cwp89kv )
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
+Meet the Speakers | Tech & Business: Exploring the Future...
+
+ - [ ] Join us for an engaging discussion featuring:
+🎤 Ms. Joy Tiko
+Software Developer | AI & Machine Learning Enthusiast | Lecturer at MUBS
+
+Topic: Innovation, Entrepreneurship, and Digital Business in the Age of AI
+
+🎤 Mr. Solomon Opio
+GDG Lead Kampala | CEO, Soltech Digital Solutions
+
+Topic: How Technology is Creating New Career Opportunities for Business Students
+
+📅 18 June 2026
+🕖 7:00 PM
+💻 Online Event
+
+Register here: https://luma.com/ll9739fg 
+
+
  - [ ] Under the theme, “Navigating the Fintech Space: Women Leading, Innovating, and Creating Impact,” the event will bring together women leaders in fintech, industry professionals, mentors, mentees, and ecosystem stakeholders to share experiences, lessons, and practical insights on leadership, resilience, innovation, and career growth. This will happen on Friday 19th June ,2026 starting at 4:00 PM (EAT) at Protea Hotel, Kololo. Register to attend: ( https://forms.gle/TymQCSVXHkGYXqgGA )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 10 11 06" src="https://github.com/user-attachments/assets/54d69b03-595f-42fb-9a2f-35607ae7aee7" />
 
