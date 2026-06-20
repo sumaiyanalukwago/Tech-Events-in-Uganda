@@ -209,7 +209,7 @@ This will be held at  Africa's Talking - Acacia Avenue  on Friday 24th April 202
 This will be on Saturday 25th April 2026 at 09:00 AM EAT. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-international-womens-day-2026-break-the-pattern/ )
 ![IWD Kampala](https://github.com/user-attachments/assets/ee9e8e03-aaeb-401f-a222-42a0833a284e)
 
-- [ ] We are excited to invite you to the Introduction to Logos Blockchain, a beginner-friendly session where you’ll learn what blockchain is and how the Logos ecosystem is shaping the future of decentralized technology.This will be held on Friday, 24th April 2026 from 10:00 AM. Register here: ( https://luma.com/fog812l6 )
+- [ ] We are excited to invite you to the Introduction to Logos Blockchain, a beginner-friendly session where you’ll learn what blockchain is and how the Logos ecosystem is shaping the future of decentralized technology.This will be held on Friday, 24th April 2026 from 10:00 AM EAT. Register here: ( https://luma.com/fog812l6 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-04-22 at 11 25 43 AM" src="https://github.com/user-attachments/assets/a316e35a-4f8e-4b23-874d-34492427a0c6" />
 
 - [ ] Join WiCyS Uganda is hosting a must-attend webinar on API Security. Our guest speaker, Dan Barahona, will be breaking down why APIs are currently the top choice for cyber attackers and what we can do about it. Topic: Why APIs Are Every Attacker’s Favourite Target. This will be held at UNIPOD Hall, Makerere University, Sir Apollo Kagwa Road on Tuesday 28th April 2026, at 10:00 AM EAT. Register here:( https://www.binance.events/event/8d4422d3-f98e-466f-876a-2ab7358656f0/summary )
