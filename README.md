@@ -22,7 +22,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 ## January
 - [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026. Apply for the course here: https://refactory.typeform.com/to/Qyx6jwXa  and apply for the 10X Program Scholarship here: https://refactory.typeform.com/10XMopUp
-  ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
+![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
 
 - [ ] The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
  Register to attend: ([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://tinyurl.com/aifest2026Muk)
