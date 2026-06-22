@@ -347,6 +347,20 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 - [ ] Join us for an insightful virtual session with Engineer Raoul from Cameroon as we explore how Large Language Models (LLMs) can be developed for African languages, many of which remain underrepresented in modern AI systems. Learn about the challenges of working with limited data, techniques for building and fine-tuning language models, and the opportunities AI presents for preserving and advancing African languages in the digital age. This will be held on Monday, June 29 2026 starting at 5:00 PM ( EAT ) online. Register here: (  https://luma.com/2l5cdyyb )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 20 23 41" src="https://github.com/user-attachments/assets/7c2510f7-7ec1-4a01-8bbc-74eac10463ce" />
 
+- [ ] We're hosting a free virtual build session focused on Qwen, one of the most capable open-source AI model families available today.
+ Whether you're a student, backend engineer, frontend developer, ML practitioner, or AI enthusiast, come let's build with Qwen AI.
+
+📅 Saturday, 27 June 2026
+⏰ 10:00 AM – 1:00 PM (EAT)
+💻 Virtual Event
+🎟️ Free to attend
+🎁 API credits provided for active participants
+
+Register here: https://forms.gle/dLXzrDuzt8i3n7Wn8
+
+Feel free to share with fellow builders and developer communities.
+
+
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
 - [ ] The Blockchain Devfest Hackathon 2026.​ The future isn't just automated; it’s decentralized. As part of Blockchain DevFest 2026, we are calling all developers, data scientists, and blockchain enthusiasts to bridge the gap between AI and Web3. This will be held on Monday 29th June, 2026. Learn more: (https://luma.com/lurbu653 )
