@@ -348,8 +348,8 @@ Register here: ( https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhx
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 20 23 41" src="https://github.com/user-attachments/assets/7c2510f7-7ec1-4a01-8bbc-74eac10463ce" />
 
 - [ ] We're hosting a free virtual build session focused on Qwen, one of the most capable open-source AI model families available today.
- Whether you're a student, backend engineer, frontend developer, ML practitioner, or AI enthusiast, come let's build with Qwen AI. This will be held online on Saturday, 27 June 2026 starting at 10:00 AM (EAT). Register here: https://forms.gle/dLXzrDuzt8i3n7Wn8)
-
+Whether you're a student, backend engineer, frontend developer, ML practitioner, or AI enthusiast, come let's build with Qwen AI. This will be held online on Saturday, 27 June 2026 starting at 10:00 AM (EAT). Register here: https://forms.gle/dLXzrDuzt8i3n7Wn8)
+<img width="1280" height="1600" alt="WhatsApp Image 2026-06-22 at 12 17 38" src="https://github.com/user-attachments/assets/8bd3a160-bba0-4fa2-aaac-c5185ea658d2" />
 
 - [ ] The International Conference on Inclusive Finance and FinTech for Development, organized by ISIT, held from Saturday 27th to Sunday 28th June, 2026 in Gulu, Uganda. Learn more: ( https://isit.org.in/event/index.php?id=100652739)
 
