@@ -379,7 +379,7 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-25 at 2 50 05 PM" src="https://github.com/user-attachments/assets/d4031f29-61c4-426b-84e5-7f9f1779419c" />
 
 
-- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another, and celebrate the Python community. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
+- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
 ![WhatsApp Image 2026-03-01 at 10 15 51 PM](https://github.com/user-attachments/assets/d9754bb0-06d4-4ff0-981f-a79b5d4417fa)
 
 ## November
