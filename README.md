@@ -367,6 +367,8 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 
 - [ ] Google IO Extended comes to Mbarara. This will be held on Saturday 18th July 2026 starting at 08:OOAM (EAT) in Mbarara. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/ )
+<img width="3000" height="3000" alt="Google io extended" src="https://github.com/user-attachments/assets/7634bf4d-2108-4a51-8944-c452e433804d" />
+
 
 
 
