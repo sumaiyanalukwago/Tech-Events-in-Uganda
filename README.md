@@ -360,12 +360,14 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 ![fd92a707-7436-422d-a8e9-a10d3156c103](https://github.com/user-attachments/assets/6fc6ae47-3e5a-4490-8bb8-560ea070e808)
 
 - [ ] Move beyond the buzzwords and get hands-on with AI tooling. In this 60-minute Google I/O Extended workshop, learn how to integrate the Google Antigravity CLI and SDK into your CI/CD pipelines. We will use Antigravity's programmatic access and custom skills to validate Terraform states and execute GitOps workflows directly to Google Cloud. This session will happen on Tuesday 30th June, 2026 at 07:00PM online. Register here: ( https://gdg.community.dev/e/mnekzy/ )
+<img width="1254" height="1254" alt="Google io extended (1)" src="https://github.com/user-attachments/assets/6f31ac30-9212-4a5a-aeec-8b10592bc822" />
+
 
 ## July
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
 
 - [ ] Google IO Extended comes to Mbarara. This will be held on Saturday 18th July 2026 starting at 08:OOAM (EAT) in Mbarara. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/ )
-![Uploading Google io extended (1).png…]()
+
 
 
 ## August
