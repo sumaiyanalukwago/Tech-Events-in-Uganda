@@ -369,6 +369,8 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
 Whether you're a student, entrepreneur, content creator, marketer, or tech enthusiast, this session will equip you with practical AI skills you can immediately apply to your academic, personal, or professional projects.
 What you'll learn: Introduction to AI in marketing,Mastering prompt writing with Google Gemini,Creating engaging social media content using AI,Designing professional graphics with Canva AI,AI-powered content planning and campaign creation,Productivity tips and best practices for responsible AI use. This will be held on Tuesday, 7th July 2026 from 07:00PM (EAT). Register:(https://luma.com/j9jymepy)
+<img width="736" height="936" alt="WhatsApp Image 2026-06-29 at 17 39 36" src="https://github.com/user-attachments/assets/d193f2ef-a087-40d5-8b6d-0701499e6848" />
+
 - [ ]
 - [ ]
 - [ ]
