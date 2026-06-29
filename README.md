@@ -365,6 +365,8 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 
 ## July
 - [ ] Have a great idea, but don't want to deal with complex infrastructure? Learn how to rapidly prototype full-stack web applications using Google AI Studio. In this beginner-friendly workshop, we will explore "vibe coding," generate a functional app using natural language, and deploy it to Google Cloud Run in a single click—no credit card required. This will be held on Thursday 2nd July 2026 Online starting at 07:00PM (EAT). Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-creating-cloud-native-applications-from-concept-to-launch-with-google-ai-studio/)
+<img width="1254" height="1254" alt="Google ai studio" src="https://github.com/user-attachments/assets/9775ec37-6a21-4d35-ad62-82a60d0f5caa" />
+
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead?
 Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
 Whether you're a student, entrepreneur, content creator, marketer, or tech enthusiast, this session will equip you with practical AI skills you can immediately apply to your academic, personal, or professional projects.
