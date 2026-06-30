@@ -39,7 +39,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ![WhatsApp Image 2026-01-09 at 4 38 54 PM]
 (https://github.com/user-attachments/assets/c18a3d24-3ded-488e-b548-51fbb0d82dc4)
 
-- [ ] Girls 4 Girls-Call for Applications. Click the link to register:(https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)
+- [ ] Girls 4 Girls-Call for Applications. Click the link to register (https://forms.zohopublic.com/projectg4gugandagm1/form/G4GMenteeRegistrationForm2026/formperma/X8dr87CX23ycMb0wU87hSH8S4Z6TI3PF0Zp1jB0XXdA)
       
 - [ ] International Conference on Data Science and Information Systems, organized by IGAE, hosted in Kampala, Uganda on 29 January 2026.  Learn more:([https://igaeglobal.com/conf/index.php?id=100049422](https://researchleagues.com/event/index.php?id=100071993)](https://igaeglobal.com/conf/index.php?id=100049422)
       
@@ -81,7 +81,7 @@ Register here: (https://lnkd.in/dYAW4-ci)
 
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.  Learn more:(https://indabaxug.com/indabax2026/)
- ![WhatsApp Image 2026-03-01 at 9 18 59 PM](https://github.com/user-attachments/assets/0735dc02-773e-44bf-88b5-24cdc1ee7c1e)
+![WhatsApp Image 2026-03-01 at 9 18 59 PM](https://github.com/user-attachments/assets/0735dc02-773e-44bf-88b5-24cdc1ee7c1e)
 
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
 Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
