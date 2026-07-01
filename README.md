@@ -381,7 +381,7 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 <img width="3000" height="3000" alt="Google io extended" src="https://github.com/user-attachments/assets/7634bf4d-2108-4a51-8944-c452e433804d" />
 
 - [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday, July 25, 2026 starting at 
-10:00 AM EAT at Jinja Tech Hub. 
+10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
 
 
 
