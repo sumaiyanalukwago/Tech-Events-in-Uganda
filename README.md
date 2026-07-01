@@ -372,7 +372,12 @@ Whether you're a student, entrepreneur, content creator, marketer, or tech enthu
 What you'll learn: Introduction to AI in marketing,Mastering prompt writing with Google Gemini,Creating engaging social media content using AI,Designing professional graphics with Canva AI,AI-powered content planning and campaign creation,Productivity tips and best practices for responsible AI use. This will be held on Tuesday, 7th July 2026 from 07:00PM (EAT). Register:(https://luma.com/j9jymepy)
 <img width="736" height="936" alt="WhatsApp Image 2026-06-29 at 17 39 36" src="https://github.com/user-attachments/assets/d193f2ef-a087-40d5-8b6d-0701499e6848" />
 
+- [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace.
+
+This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools.
+
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
+- [ ] 
 
 - [ ] Google IO Extended comes to Mbarara. This will be held on Saturday 18th July 2026 starting at 08:OOAM (EAT) in Mbarara. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/ )
 <img width="3000" height="3000" alt="Google io extended" src="https://github.com/user-attachments/assets/7634bf4d-2108-4a51-8944-c452e433804d" />
