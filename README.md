@@ -381,6 +381,10 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 - [ ] Google IO Extended comes to Mbarara. This will be held on Saturday 18th July 2026 starting at 08:OOAM (EAT) in Mbarara. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/ )
 <img width="3000" height="3000" alt="Google io extended" src="https://github.com/user-attachments/assets/7634bf4d-2108-4a51-8944-c452e433804d" />
 
+Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.
+
+Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development.
+
 
 
 
