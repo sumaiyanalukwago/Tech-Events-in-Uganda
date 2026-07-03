@@ -367,14 +367,6 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 
 - [ ] Notion Community Show Day Uganda 2026. Ready to learn, connect, and get inspired?Join us for an exciting morning with amazing speakers sharing practical ways they use Notion to stay productive, build projects, manage teams, and organize their lives. This will happen on Saturday 4th July 2026 starting at 09:00 AM (EAT) and will be held at the Makerere University Conference Room.
 
-📅 Date: 4th July 2026
-⏰ Time: 9:00 AM – 12:00 PM (Sharp)
-📍 Venue: Makerere University Conference Room
-
-🎁 Expect Notion merch, prizes, swag, and great networking opportunities.
-
-⚠️ Slots are limited!
-
 👉 Register as an attendee: https://luma.com/bujjbmd6
 
 See you there! 💛🖤
