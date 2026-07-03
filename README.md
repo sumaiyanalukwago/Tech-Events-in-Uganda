@@ -361,10 +361,27 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 - [ ] Move beyond the buzzwords and get hands-on with AI tooling. In this 60-minute Google I/O Extended workshop, learn how to integrate the Google Antigravity CLI and SDK into your CI/CD pipelines. We will use Antigravity's programmatic access and custom skills to validate Terraform states and execute GitOps workflows directly to Google Cloud. This session will happen on Tuesday 30th June, 2026 at 07:00PM online. Register here: ( https://gdg.community.dev/e/mnekzy/ )
 <img width="1254" height="1254" alt="Google io extended (1)" src="https://github.com/user-attachments/assets/6f31ac30-9212-4a5a-aeec-8b10592bc822" />
 
-
 ## July
 - [ ] Have a great idea, but don't want to deal with complex infrastructure? Learn how to rapidly prototype full-stack web applications using Google AI Studio. In this beginner-friendly workshop, we will explore "vibe coding," generate a functional app using natural language, and deploy it to Google Cloud Run in a single click—no credit card required. This will be held on Thursday 2nd July 2026 Online starting at 07:00PM (EAT). Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-creating-cloud-native-applications-from-concept-to-launch-with-google-ai-studio/)
 <img width="1254" height="1254" alt="Google ai studio" src="https://github.com/user-attachments/assets/9775ec37-6a21-4d35-ad62-82a60d0f5caa" />
+
+- [ ] Notion Community Show Day Uganda 2026
+
+Ready to learn, connect, and get inspired?
+
+Join us for an exciting morning with amazing speakers sharing practical ways they use Notion to stay productive, build projects, manage teams, and organize their lives.
+
+📅 Date: 4th July 2026
+⏰ Time: 9:00 AM – 12:00 PM (Sharp)
+📍 Venue: Makerere University Conference Room
+
+🎁 Expect Notion merch, prizes, swag, and great networking opportunities.
+
+⚠️ Slots are limited!
+
+👉 Register as an attendee: https://luma.com/bujjbmd6
+
+See you there! 💛🖤
 
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead?
 Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
