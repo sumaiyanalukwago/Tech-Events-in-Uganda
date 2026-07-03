@@ -366,7 +366,7 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 <img width="1254" height="1254" alt="Google ai studio" src="https://github.com/user-attachments/assets/9775ec37-6a21-4d35-ad62-82a60d0f5caa" />
 
 - [ ] Notion Community Show Day Uganda 2026. Ready to learn, connect, and get inspired?Join us for an exciting morning with amazing speakers sharing practical ways they use Notion to stay productive, build projects, manage teams, and organize their lives. This will happen on Saturday 4th July 2026 starting at 09:00 AM (EAT) and will be held at the Makerere University Conference Room. Register as an attendee: (https://luma.com/bujjbmd6)
-
+<img width="1080" height="607" alt="WhatsApp Image 2026-07-03 at 06 29 38" src="https://github.com/user-attachments/assets/135092bb-2d36-46c7-8cd8-969657d87898" />
 
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead?
 Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
