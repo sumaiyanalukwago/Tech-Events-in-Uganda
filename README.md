@@ -365,11 +365,7 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 - [ ] Have a great idea, but don't want to deal with complex infrastructure? Learn how to rapidly prototype full-stack web applications using Google AI Studio. In this beginner-friendly workshop, we will explore "vibe coding," generate a functional app using natural language, and deploy it to Google Cloud Run in a single click—no credit card required. This will be held on Thursday 2nd July 2026 Online starting at 07:00PM (EAT). Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-creating-cloud-native-applications-from-concept-to-launch-with-google-ai-studio/)
 <img width="1254" height="1254" alt="Google ai studio" src="https://github.com/user-attachments/assets/9775ec37-6a21-4d35-ad62-82a60d0f5caa" />
 
-- [ ] Notion Community Show Day Uganda 2026
-
-Ready to learn, connect, and get inspired?
-
-Join us for an exciting morning with amazing speakers sharing practical ways they use Notion to stay productive, build projects, manage teams, and organize their lives.
+- [ ] Notion Community Show Day Uganda 2026. Ready to learn, connect, and get inspired?Join us for an exciting morning with amazing speakers sharing practical ways they use Notion to stay productive, build projects, manage teams, and organize their lives. This will happen on Saturday 4th July 2026 starting at 09:00 AM
 
 📅 Date: 4th July 2026
 ⏰ Time: 9:00 AM – 12:00 PM (Sharp)
