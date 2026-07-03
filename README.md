@@ -53,7 +53,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 ## February
 
-- [ ] Build with Google AI Studio. Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build! This will be held on Saturday, 7th February 2026 at 6:00 PM. Register here: (https://tinyurl.com/buildwithAIStudio)
+- [ ] Build with Google AI Studio. Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build! This will be held on Saturday 7th February 2026 at 6:00 PM. Register here: (https://tinyurl.com/buildwithAIStudio)
 ![event](https://github.com/user-attachments/assets/a950513e-ee92-4744-8b31-0921384b217b)
 
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
