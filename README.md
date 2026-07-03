@@ -184,7 +184,7 @@ It will be held on Friday 3rd April 2026 from 10:00 AM (EAT). Register here: ( h
 - [ ] The PyLadies Kampala is on and and this time we are  handling Logic & Data Processing. We will explore Database concepts, business rules and query logic, django ORM, CRUD operations, data validation and serialization. If you want to truly understand how your backend works, this session is for you. This will be held at Africa's Talking - Acacia Avenue on Saturday 11th April 2026 at 09:00 AM EAT. Register here:( https://forms.gle/y68qCEtnfYQ2W7CE8 )
 ![PYLADIES](https://github.com/user-attachments/assets/106d987b-0b0b-493f-948f-c55591f903e8)
 
-- [ ] Join us for the: Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian. This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
+- [ ] Join us for the Mastering Chainlink Runtime Environment (CRE. An in-depth meetup for developers, builders, and blockchain professionals featuring expert insights and practical knowledge on CRE by Kakooza Vian. This will be held at Makerere University on Friday April 17th 2026 at 09:00 AM EAT. Register here:( luma.com/mduwnx3x )
 ![CHAINLINK](https://github.com/user-attachments/assets/1c8c51aa-aebd-4f32-979a-caccfcf6dcb1)
 
 - [ ] Join students, young professionals, and industry leaders for a high-impact engagement on Uganda’s energy future. Theme: Preparing the Next Generation of Engineers for Uganda’s Energy Value Chain. This will happen on Saturday 18th April 2026 at CEDAT, Makerere University from 9:00 AM – 4:00 PM EAT. Register here: ( https://luma.com/nlnjgew3 )
