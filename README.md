@@ -361,6 +361,7 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 <img width="1254" height="1254" alt="Google io extended (1)" src="https://github.com/user-attachments/assets/6f31ac30-9212-4a5a-aeec-8b10592bc822" />
 
 ## July
+
 - [ ] Have a great idea, but don't want to deal with complex infrastructure? Learn how to rapidly prototype full-stack web applications using Google AI Studio. In this beginner-friendly workshop, we will explore "vibe coding," generate a functional app using natural language, and deploy it to Google Cloud Run in a single click—no credit card required. This will be held on Thursday 2nd July 2026 Online starting at 07:00PM (EAT). Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-creating-cloud-native-applications-from-concept-to-launch-with-google-ai-studio/)
 <img width="1254" height="1254" alt="Google ai studio" src="https://github.com/user-attachments/assets/9775ec37-6a21-4d35-ad62-82a60d0f5caa" />
 
