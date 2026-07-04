@@ -375,10 +375,7 @@ Whether you're a student, entrepreneur, content creator, marketer, or tech enthu
 What you'll learn: Introduction to AI in marketing,Mastering prompt writing with Google Gemini,Creating engaging social media content using AI,Designing professional graphics with Canva AI,AI-powered content planning and campaign creation,Productivity tips and best practices for responsible AI use. This will be held on Tuesday, 7th July 2026 from 07:00PM (EAT). Register:(https://luma.com/j9jymepy)
 <img width="736" height="936" alt="WhatsApp Image 2026-06-29 at 17 39 36" src="https://github.com/user-attachments/assets/d193f2ef-a087-40d5-8b6d-0701499e6848" />
 
-- [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications. This will happen on Saturday 11th July 2026 starting at  09:00 AM (EAT) at Africa is Talking , 4th floor Acacia place, Acacia Avenue.
-
-📍 Venue: Africa is Talking , 4th floor Acacia place, Acacia Avenue
-🔗 Signup: https://forms.gle/stguZfDPeMGShw776
+- [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications. This will happen on Saturday 11th July 2026 starting at  09:00 AM (EAT) at Africa is Talking , 4th floor Acacia place, Acacia Avenue. Register here: ( https://forms.gle/stguZfDPeMGShw776 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-03 at 14 32 47" src="https://github.com/user-attachments/assets/2f085c78-1d62-4224-9a01-10c65b7a5d73" />
 
 
