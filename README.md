@@ -380,14 +380,6 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 📍 Venue: Africa is Talking , 4th floor Acacia place, Acacia Avenue
 🔗 Signup: https://forms.gle/stguZfDPeMGShw776
 
- What we’ll cover:
-✅ Why testing matters
-✅ Unit testing fundamentals
-✅ Automated testing with Python
-✅ Testing Tools
-✅ Testing best practices for real-world projects
-Discover practical techniques that will help you catch bugs earlier, improve code quality, and build applications that are quality, reliable and easier to maintain.
-No matter how great your code is, without testing, bugs can make their way into production.
 
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
