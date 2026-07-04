@@ -376,8 +376,7 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 <img width="736" height="936" alt="WhatsApp Image 2026-06-29 at 17 39 36" src="https://github.com/user-attachments/assets/d193f2ef-a087-40d5-8b6d-0701499e6848" />
 
 - [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications. This will happen on Saturday 11th July 2026 starting at  09:00 AM (EAT) at Africa is Talking , 4th floor Acacia place, Acacia Avenue.
-📅 Date: 11/07/2026
-🕘 Time: 09:00 AM
+
 📍 Venue: Africa is Talking , 4th floor Acacia place, Acacia Avenue
 🔗 Signup: https://forms.gle/stguZfDPeMGShw776
 
