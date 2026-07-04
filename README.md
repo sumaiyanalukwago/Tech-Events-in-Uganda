@@ -379,6 +379,7 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 
 📍 Venue: Africa is Talking , 4th floor Acacia place, Acacia Avenue
 🔗 Signup: https://forms.gle/stguZfDPeMGShw776
+<img width="1080" height="1080" alt="WhatsApp Image 2026-07-03 at 14 32 47" src="https://github.com/user-attachments/assets/2f085c78-1d62-4224-9a01-10c65b7a5d73" />
 
 
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
