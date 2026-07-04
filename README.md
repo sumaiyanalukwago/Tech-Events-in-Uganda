@@ -375,6 +375,21 @@ Whether you're a student, entrepreneur, content creator, marketer, or tech enthu
 What you'll learn: Introduction to AI in marketing,Mastering prompt writing with Google Gemini,Creating engaging social media content using AI,Designing professional graphics with Canva AI,AI-powered content planning and campaign creation,Productivity tips and best practices for responsible AI use. This will be held on Tuesday, 7th July 2026 from 07:00PM (EAT). Register:(https://luma.com/j9jymepy)
 <img width="736" height="936" alt="WhatsApp Image 2026-06-29 at 17 39 36" src="https://github.com/user-attachments/assets/d193f2ef-a087-40d5-8b6d-0701499e6848" />
 
+- [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications.
+📅 Date: 11/07/2026
+🕘 Time: 09:00 AM
+📍 Venue: Africa is Talking , 4th floor Acacia place, Acacia Avenue
+🔗 Signup: https://forms.gle/stguZfDPeMGShw776
+
+ What we’ll cover:
+✅ Why testing matters
+✅ Unit testing fundamentals
+✅ Automated testing with Python
+✅ Testing Tools
+✅ Testing best practices for real-world projects
+Discover practical techniques that will help you catch bugs earlier, improve code quality, and build applications that are quality, reliable and easier to maintain.
+No matter how great your code is, without testing, bugs can make their way into production.
+
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
 
