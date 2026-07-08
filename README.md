@@ -369,6 +369,10 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 <img width="1080" height="607" alt="WhatsApp Image 2026-07-03 at 06 29 38" src="https://github.com/user-attachments/assets/135092bb-2d36-46c7-8cd8-969657d87898" />
 
 - [ ] Join WordCamp Masaka 2026,the 4th WordPress conference in the Greater Masaka region and build with us. We bring together developers, designers, and entrepreneurs to share knowledge and foster innovation. Whether you are starting out or an expert, come contribute to the future of the web in a diverse, welcoming space. This will happen on Saturday 4th July 2026 starting at 09:00 AM (EAT) Register here: ( https://masaka.wordcamp.org/2026/)
+- [ ] To join the session on Google meet, join using: https://meet.google.com/qbr-jfvq-ikv
+
+If you fail to join using google meet you can join the live stream on Youtube at: https://youtube.com/live/gU5X6e_nSig?feature=share
+- [ ] 
 
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead? Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
 Whether you're a student, entrepreneur, content creator, marketer, or tech enthusiast, this session will equip you with practical AI skills you can immediately apply to your academic, personal, or professional projects.
