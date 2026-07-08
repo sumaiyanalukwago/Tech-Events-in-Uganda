@@ -371,12 +371,8 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 - [ ] Join WordCamp Masaka 2026,the 4th WordPress conference in the Greater Masaka region and build with us. We bring together developers, designers, and entrepreneurs to share knowledge and foster innovation. Whether you are starting out or an expert, come contribute to the future of the web in a diverse, welcoming space. This will happen on Saturday 4th July 2026 starting at 09:00 AM (EAT) Register here: ( https://masaka.wordcamp.org/2026/)
 
 - [ ] We are hosting Build with Gemma 4: Hack 4 Bodas. This is a 1-day Kaggle hackathon where builders will use Gemma 4 to prototype AI tools for one of Kampala’s most important mobility systems: boda bodas. 𝗧𝗵𝗲 𝗳𝗼𝗰𝘂𝘀 𝗶𝘀 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝗱𝗲𝗲𝗽𝗹𝘆 𝗹𝗼𝗰𝗮𝗹: 𝗵𝗼𝘄 𝗰𝗮𝗻 𝗼𝗽𝗲𝗻 𝗔𝗜 𝗺𝗼𝗱𝗲𝗹𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘀𝗮𝗳𝗲𝗿 𝗿𝗶𝗱𝗲𝘀, 𝘁𝗿𝘂𝘀𝘁𝗲𝗱 𝘁𝗿𝗶𝗽𝘀, 𝗮𝗻𝗱 𝘀𝗺𝗮𝗿𝘁𝗲𝗿 𝗰𝗶𝘁𝘆 𝗺𝗼𝗯𝗶𝗹𝗶𝘁𝘆? Participants will build practical prototypes for riders, passengers, boda associations, delivery workers, and city mobility stakeholders, with ideas ranging from local-language safety assistants to rider training tools, incident-report summarizers, and mobility feedback dashboards. This will be held on Saturday 11th July 2026 at CoCIS,Makerere University
-starting at 09:30 AM (EAT)
+starting at 09:30 AM (EAT) Registration here: https://luma.com/l5fpxj01
 
-
-Registration: https://luma.com/l5fpxj01
-
-Proud to see the AIFest community continue turning AI from conversation into practical local action.
 - [ ] 
 
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead? Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
