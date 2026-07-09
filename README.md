@@ -370,7 +370,7 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 
 - [ ] Join WordCamp Masaka 2026,the 4th WordPress conference in the Greater Masaka region and build with us. We bring together developers, designers, and entrepreneurs to share knowledge and foster innovation. Whether you are starting out or an expert, come contribute to the future of the web in a diverse, welcoming space. This will happen on Saturday 4th July 2026 starting at 09:00 AM (EAT) Register here: ( https://masaka.wordcamp.org/2026/)
       
-- [ ] From Stitch to Figma: Building Seamless UI/UX Workflows. Ready to level up your design & development workflow? Join GDG Cloud Mbarara for a hands-on session on bridging the gap between rapid prototyping and high-fidelity design! This will be held on Thursday, 9th July, 2026 starting at 07:00PM (EAT)
+- [ ] From Stitch to Figma: Building Seamless UI/UX Workflows. Ready to level up your design & development workflow? Join GDG Cloud Mbarara for a hands-on session on bridging the gap between rapid prototyping and high-fidelity design! This will be held on Thursday, 9th July, 2026 starting at 07:00PM (EAT). Register here: https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-from-stitch-to-figma-building-seamless-uiux-workflows/
 
 📅 Date: Thursday, 9th July, 2026
 🕖 Time: 7:00 PM – 8:00 PM EAT
