@@ -379,6 +379,7 @@ Ready to level up your design & development workflow? Join GDG Cloud Mbarara for
 📍 Platform: Google Meet
 Learn to go from raw ideas to production-ready prototypes seamlessly. 🚀
 🔗 Register here: https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-from-stitch-to-figma-building-seamless-uiux-workflows/
+<img width="1254" height="1254" alt="WhatsApp Image 2026-07-08 at 18 31 21" src="https://github.com/user-attachments/assets/75455e78-b526-4c32-b193-0297a5971f40" />
 
 - [ ] We are hosting Build with Gemma 4: Hack 4 Bodas. This is a 1-day Kaggle hackathon where builders will use Gemma 4 to prototype AI tools for one of Kampala’s most important mobility systems: boda bodas. 𝗧𝗵𝗲 𝗳𝗼𝗰𝘂𝘀 𝗶𝘀 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝗱𝗲𝗲𝗽𝗹𝘆 𝗹𝗼𝗰𝗮𝗹: 𝗵𝗼𝘄 𝗰𝗮𝗻 𝗼𝗽𝗲𝗻 𝗔𝗜 𝗺𝗼𝗱𝗲𝗹𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘀𝗮𝗳𝗲𝗿 𝗿𝗶𝗱𝗲𝘀, 𝘁𝗿𝘂𝘀𝘁𝗲𝗱 𝘁𝗿𝗶𝗽𝘀, 𝗮𝗻𝗱 𝘀𝗺𝗮𝗿𝘁𝗲𝗿 𝗰𝗶𝘁𝘆 𝗺𝗼𝗯𝗶𝗹𝗶𝘁𝘆? Participants will build practical prototypes for riders, passengers, boda associations, delivery workers, and city mobility stakeholders, with ideas ranging from local-language safety assistants to rider training tools, incident-report summarizers, and mobility feedback dashboards. This will be held on Saturday 11th July 2026 at CoCIS,Makerere University starting at 09:30 AM (EAT) Registration here: (https://luma.com/l5fpxj01)
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-08 at 19 00 27" src="https://github.com/user-attachments/assets/2e9120ea-6476-4156-b3bf-581080810629" />
