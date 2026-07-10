@@ -402,11 +402,7 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 - [ ] Ever wanted to build a real AI app but didn't know where to start? This is your moment. No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.  Register now: ( https://luma.com/jl30q0w1 )
 
-🚨 BUILD WITH AI is here! 🚨
 
-Ever wanted to build a real AI app but didn't know where to start? This is your moment. 
-
-🗓️ Fri, 31 July | 7PM–8PM | Online
 
 🎯 Beginner-friendly — zero coding experience needed
 
