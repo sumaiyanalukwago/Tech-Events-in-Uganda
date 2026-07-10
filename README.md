@@ -387,7 +387,6 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 - [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications. This will happen on Saturday 11th July 2026 starting at  09:00 AM (EAT) at Africa is Talking , 4th floor Acacia place, Acacia Avenue. Register here: ( https://forms.gle/stguZfDPeMGShw776 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-03 at 14 32 47" src="https://github.com/user-attachments/assets/2f085c78-1d62-4224-9a01-10c65b7a5d73" />
 
-
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
 
@@ -400,6 +399,28 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 - [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday, July 25, 2026 starting at 
 10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
+
+🚨 BUILD WITH AI is here! 🚨
+
+Ever wanted to build a real AI app but didn't know where to start? This is your moment. 
+
+🗓️ Fri, 31 July | 7PM–8PM | Online
+
+🎯 Beginner-friendly — zero coding experience needed
+
+🛠️ 100% hands-on — we build a REAL application live, step by step, together
+
+🚀 Walk away hackathon-ready with practical Google AI Studio skills
+
+No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. 💻
+
+Whether you're gearing up for your first hackathon or just curious about what AI Studio can do, this session was built for you.
+
+Spots are filling up fast, don't sleep on this one 👀
+
+🔗 Register now: https://luma.com/jl30q0w1
+
+See you there! 🤖✨
 
 
 
