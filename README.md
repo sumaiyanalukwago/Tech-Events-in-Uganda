@@ -405,13 +405,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 
 
-Whether you're gearing up for your first hackathon or just curious about what AI Studio can do, this session was built for you.
-
-Spots are filling up fast, don't sleep on this one 👀
-
-🔗 Register now: https://luma.com/jl30q0w1
-
-See you there! 🤖✨
 
 
 
