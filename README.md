@@ -404,13 +404,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 
 
-🎯 Beginner-friendly — zero coding experience needed
-
-🛠️ 100% hands-on — we build a REAL application live, step by step, together
-
-🚀 Walk away hackathon-ready with practical Google AI Studio skills
-
-No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. 💻
 
 Whether you're gearing up for your first hackathon or just curious about what AI Studio can do, this session was built for you.
 
