@@ -400,7 +400,7 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 - [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday, July 25, 2026 starting at 
 10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
 
-- [ ] Ever wanted to build a real AI app but didn't know where to start? This is your moment. No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.
+- [ ] Ever wanted to build a real AI app but didn't know where to start? This is your moment. No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.  Register now: ( https://luma.com/jl30q0w1 )
 
 🚨 BUILD WITH AI is here! 🚨
 
