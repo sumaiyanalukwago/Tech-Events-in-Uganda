@@ -390,11 +390,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 - [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy. This will be held on Saturday, 18th July, 2026 starting at  10:00 AM (EAT) at Conference Room, Block A Level 4, Makerere University. Register here: ( https://luma.com/2lcj460a )
 <img width="736" height="821" alt="WhatsApp Image 2026-07-10 at 21 07 09" src="https://github.com/user-attachments/assets/3b8ff7de-a524-4dba-93f5-728a80b0b680" />
 
-
-​📅 Date: Saturday, 18th July, 2026
-⏰ Time: 10:00 AM – 12:00 PM
-📍 Venue: Conference Room, Block A Level 4, Makerere University
-
 - [ ] The way people meet, communicate, and build relationships is evolving rapidly. Technology has transformed how we connect—but there is still enormous opportunity to create platforms that are safer, more inclusive, more authentic, and better suited to the needs of African communities. This hackathon invites developers, designers, product builders, and innovators to rethink the future of dating and social networking. Participants will collaborate to build digital experiences that foster meaningful human connections while addressing challenges such as trust, privacy, safety, accessibility, and community engagement. This will be held on Saturday, 18th July 2026 at Africa's Talking Offices, The Acacia Place, 4th Floor, John Babiha (Acacia) Ave, Kampala starting at  08:30 AM (EAT) . Register here:  ( https://community.africastalking.com/events/details/africas-talking-africas-talking-open-community-east-africa-hub-presents-reimagining-dating-amp-social-networks-through-technology-hackathon/)
 
 - [ ] The International Conference on Machine Learning and Big Data Applications for IT Growth, organized by Research Foundation, scheduled to take place on Monday 20th July 2026 in Kampala, Uganda. Learn more: (https://researchfoundation.net/event/index.php?id=100761396)
