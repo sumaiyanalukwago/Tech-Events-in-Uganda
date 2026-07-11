@@ -387,7 +387,9 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
 
-- [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy.
+- [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy. This will be held on Saturday, 18th July, 2026 starting at  10:00 AM (EAT) at Conference Room, Block A Level 4, Makerere University. Register here: ( https://luma.com/2lcj460a )
+<img width="736" height="821" alt="WhatsApp Image 2026-07-10 at 21 07 09" src="https://github.com/user-attachments/assets/3b8ff7de-a524-4dba-93f5-728a80b0b680" />
+
 
 ​📅 Date: Saturday, 18th July, 2026
 ⏰ Time: 10:00 AM – 12:00 PM
