@@ -376,9 +376,6 @@ Whether you're a student, backend engineer, frontend developer, ML practitioner,
 - [ ] We are hosting Build with Gemma 4: Hack 4 Bodas. This is a 1-day Kaggle hackathon where builders will use Gemma 4 to prototype AI tools for one of Kampala’s most important mobility systems: boda bodas. 𝗧𝗵𝗲 𝗳𝗼𝗰𝘂𝘀 𝗶𝘀 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝗱𝗲𝗲𝗽𝗹𝘆 𝗹𝗼𝗰𝗮𝗹: 𝗵𝗼𝘄 𝗰𝗮𝗻 𝗼𝗽𝗲𝗻 𝗔𝗜 𝗺𝗼𝗱𝗲𝗹𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘀𝗮𝗳𝗲𝗿 𝗿𝗶𝗱𝗲𝘀, 𝘁𝗿𝘂𝘀𝘁𝗲𝗱 𝘁𝗿𝗶𝗽𝘀, 𝗮𝗻𝗱 𝘀𝗺𝗮𝗿𝘁𝗲𝗿 𝗰𝗶𝘁𝘆 𝗺𝗼𝗯𝗶𝗹𝗶𝘁𝘆? Participants will build practical prototypes for riders, passengers, boda associations, delivery workers, and city mobility stakeholders, with ideas ranging from local-language safety assistants to rider training tools, incident-report summarizers, and mobility feedback dashboards. This will be held on Saturday 11th July 2026 at CoCIS,Makerere University starting at 09:30 AM (EAT) Registration here: (https://luma.com/l5fpxj01)
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-08 at 19 00 27" src="https://github.com/user-attachments/assets/2e9120ea-6476-4156-b3bf-581080810629" />
 
-
-- [ ] 
-
 - [ ] Artificial Intelligence is transforming the way businesses create content, market products, and engage customers. Are you ready to stay ahead? Join us for an exciting hands-on virtual session where you'll learn how to leverage Google Gemini and Canva AI to create high-quality marketing content faster, smarter and more effectively.
 Whether you're a student, entrepreneur, content creator, marketer, or tech enthusiast, this session will equip you with practical AI skills you can immediately apply to your academic, personal, or professional projects.
 What you'll learn: Introduction to AI in marketing,Mastering prompt writing with Google Gemini,Creating engaging social media content using AI,Designing professional graphics with Canva AI,AI-powered content planning and campaign creation,Productivity tips and best practices for responsible AI use. This will be held on Tuesday, 7th July 2026 from 07:00PM (EAT). Register:(https://luma.com/j9jymepy)
@@ -387,12 +384,10 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 - [ ] Join PyLadies Kampala for an exciting session on Python Testing for Web Applications with  Shakira Ndagire , where we'll explore how to write effective tests and adopt best practices for building robust web applications. This will happen on Saturday 11th July 2026 starting at  09:00 AM (EAT) at Africa is Talking , 4th floor Acacia place, Acacia Avenue. Register here: ( https://forms.gle/stguZfDPeMGShw776 )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-03 at 14 32 47" src="https://github.com/user-attachments/assets/2f085c78-1d62-4224-9a01-10c65b7a5d73" />
 
-
-
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
 
-Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy.
+- [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy.
 
 ​📅 Date: Saturday, 18th July, 2026
 ⏰ Time: 10:00 AM – 12:00 PM
