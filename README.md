@@ -390,11 +390,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 online. Register here: (https://luma.com/dj4en4ys)
 <img width="1080" height="602" alt="WhatsApp Image 2026-07-13 at 22 31 58" src="https://github.com/user-attachments/assets/6f39b3bc-4e46-4538-a8fc-32a607d6a42c" />
 
-
-
-🔗 RSVP Here : https://luma.com/dj4en4ys
-See you there! Let's build. 🙌
-
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch ) 
 
 - [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy. This will be held on Saturday, 18th July, 2026 starting at  10:00 AM (EAT) at Conference Room, Block A Level 4, Makerere University. Register here: ( https://luma.com/2lcj460a )
