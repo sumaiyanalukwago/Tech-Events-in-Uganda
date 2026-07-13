@@ -407,7 +407,7 @@ Whether you’re a beginner or an experienced developer, this is a great opportu
 
 https://community.africastalking.com/e/mwhabx/
 
-Don’t miss out — save the date and get ready to build!
+
 
 - [ ] Ever wanted to build a real AI app but didn't know where to start? This is your moment. No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.  Register now: ( https://luma.com/jl30q0w1 )
 
