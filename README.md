@@ -400,9 +400,7 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 - [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday, July 25, 2026 starting at 
 10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
 
-- [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala. 
-
-https://community.africastalking.com/e/mwhabx/
+- [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala. Register here: ( https://community.africastalking.com/e/mwhabx/)
 
 
 
