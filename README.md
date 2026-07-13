@@ -403,10 +403,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 - [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala
 
 
-📅 Date: 25th July 2026
-⏰ Time: 8:00 AM – 6:00 PM
-📍 Venue: Africa’s Talking Offices, Acacia Place, Kampala
-
 Whether you’re a beginner or an experienced developer, this is a great opportunity to learn, network, build, and showcase your creativity.
 
 https://community.africastalking.com/e/mwhabx/
