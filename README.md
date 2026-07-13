@@ -342,7 +342,7 @@ This will be held on Wednesday 18th June 2026 at 07:00 PM (EAT) online. Register
 - [ ] We are excited to officially open registrations for the Build with AI Makerere Hackathon, organized by GDG on Campus Makerere University, in partnership with MLH, Google Build with AI, Gemini & Google Cloud. This will be held on Saturday June 27, 2026 starting at 09:00 AM ( EAT ). Register here:( https://events.mlh.com/events/14316-build-with-ai-makerere-hackathon )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-26 at 8 42 07 AM" src="https://github.com/user-attachments/assets/79d03a75-cb70-444f-a866-1f343ea0e6d0" />
 
-- [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.Register here: (https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
+- [ ] We are looking for female university students eager to master 3D storytelling and technical animation. This is your chance to learn in a professional environment. This will run from 1st June to 30th July 2026 at the National ICT Innovation Hub, Nakawa.Register here:(https://docs.google.com/forms/d/e/1FAIpQLSevhmxHEQz3P3IaGCFbFhxflkHLdt9ebiPjSbdmqLM_woURnA/viewform )
 
 - [ ] Join us for an insightful virtual session with Engineer Raoul from Cameroon as we explore how Large Language Models (LLMs) can be developed for African languages, many of which remain underrepresented in modern AI systems. Learn about the challenges of working with limited data, techniques for building and fine-tuning language models, and the opportunities AI presents for preserving and advancing African languages in the digital age. This will be held on Monday, June 29 2026 starting at 5:00 PM ( EAT ) online. Register here: (  https://luma.com/2l5cdyyb )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-18 at 20 23 41" src="https://github.com/user-attachments/assets/7c2510f7-7ec1-4a01-8bbc-74eac10463ce" />
@@ -391,9 +391,6 @@ online. Register here: (https://luma.com/dj4en4ys)
 <img width="1080" height="602" alt="WhatsApp Image 2026-07-13 at 22 31 58" src="https://github.com/user-attachments/assets/6f39b3bc-4e46-4538-a8fc-32a607d6a42c" />
 
 
-📅 Date : Tuesday, 14 July
-⏰ Time : 20:00 - 21:30 GMT+3
-📍 Platform: Google Meet
 
 🔗 RSVP Here : https://luma.com/dj4en4ys
 See you there! Let's build. 🙌
