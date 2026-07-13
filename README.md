@@ -388,6 +388,8 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 - [ ]  Want to learn Web3 basics, deploy your first on-chain project, and get your team seamlessly set up on Devfolio to participate in the Blockchain Devfest hackathon? Join us for this essential kickoff session to the Devfest hackathon,  You are all encouraged to attend, exciting prizes await you all. This will be held on Tuesday 14th July 2026 startimg at 20:00 (GMT+3)
 online. Register here: (https://luma.com/dj4en4ys)
+<img width="1080" height="602" alt="WhatsApp Image 2026-07-13 at 22 31 58" src="https://github.com/user-attachments/assets/6f39b3bc-4e46-4538-a8fc-32a607d6a42c" />
+
 
 📅 Date : Tuesday, 14 July
 ⏰ Time : 20:00 - 21:30 GMT+3
