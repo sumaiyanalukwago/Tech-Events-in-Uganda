@@ -402,8 +402,6 @@ Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/googl
 
 - [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala. Register here: ( https://community.africastalking.com/e/mwhabx/)
 
-
-
 - [ ] Ever wanted to build a real AI app but didn't know where to start? This is your moment. No theory overload. No boring slides. Just you, your laptop and a working AI app by the end of the hour. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.  Register now: ( https://luma.com/jl30q0w1 )
 
 ## August
