@@ -386,6 +386,16 @@ What you'll learn: Introduction to AI in marketing,Mastering prompt writing with
 - [ ] Ready to explore the future of Cloud and AI technology? Google I/O Extended 2026 is coming to GDG Cloud Jinja in a hybrid format! Join us live in person or stream the entire event from your workspace. This session brings together the local tech community to unpack the latest breakthroughs from Google I/O, focusing on cutting-edge cloud solutions and innovative developer tools. This session will be held on Saturday 11th July 2026 starting at 08:00AM (EAT) at HELP International Vocational School
 Walukuba, Jinja. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-google-io-extended-jinja-2026-hybrid-edition/)
 
+- [ ]  Want to learn Web3 basics, deploy your first on-chain project, and get your team seamlessly set up on Devfolio to participate in the Blockchain Devfest hackathon? Join us for this essential kickoff session to the Devfest hackathon,  You are all encouraged to attend, exciting prizes await you all. This will be held on Tuesday 14th July 2026 startimg at 20:00 (GMT+3)
+online. Register here: (https://luma.com/dj4en4ys)
+
+📅 Date : Tuesday, 14 July
+⏰ Time : 20:00 - 21:30 GMT+3
+📍 Platform: Google Meet
+
+🔗 RSVP Here : https://luma.com/dj4en4ys
+See you there! Let's build. 🙌
+
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch ) 
 
 - [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy. This will be held on Saturday, 18th July, 2026 starting at  10:00 AM (EAT) at Conference Room, Block A Level 4, Makerere University. Register here: ( https://luma.com/2lcj460a )
