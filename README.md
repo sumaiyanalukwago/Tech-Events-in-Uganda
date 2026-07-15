@@ -392,10 +392,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch )
       
-- [ ] Code Less, Build More: Getting Started with Google Antigravity IDE. Want to build faster using AI? Join GDG Cloud Mbarara to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture. This will be held on Thursday, 16th July, 2026 starting at  07:00 PM (EAT) online.
-
-
-
+- [ ] Code Less, Build More: Getting Started with Google Antigravity IDE. Want to build faster using AI? Join GDG Cloud Mbarara to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture. This will be held on Thursday, 16th July, 2026 starting at  07:00 PM (EAT) online. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-code-less-build-more-getting-started-with-google-antigravity-ide/) 
 
 - [ ] Join us for an interactive session where we'll explore how SACCOs manage members' savings and fees, the challenges surrounding transparency and accountability, and how Logos Blockchain can help make fund allocation and circulation more visible, traceable, and trustworthy. This will be held on Saturday, 18th July, 2026 starting at  10:00 AM (EAT) at Conference Room, Block A Level 4, Makerere University. Register here: ( https://luma.com/2lcj460a )
 <img width="736" height="821" alt="WhatsApp Image 2026-07-10 at 21 07 09" src="https://github.com/user-attachments/assets/3b8ff7de-a524-4dba-93f5-728a80b0b680" />
