@@ -392,11 +392,9 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch )
       
-- [ ] Code Less, Build More: Getting Started with Google Antigravity IDE 🤖✨
+- [ ] Code Less, Build More: Getting Started with Google Antigravity IDE. Want to build faster using AI? Join *GDG Cloud Mbarara* to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture. This will be held on Thursday, 16th July, 2026 starting at  07:00 PM (EAT)
 
-Want to build faster using AI? Join *GDG Cloud Mbarara* to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture.
-
-📅 Date: Thursday, 16th July, 2026
+📅 Date: 
 🕖 Time: 7:00 PM – 8:00 PM EAT
 📍 Platform: Google Meet
 
