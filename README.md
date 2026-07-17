@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="venue (1)" src="https://github.com/user-attachments/assets/9dd65f34-391e-4aec-a641-9cfcddbb0e7f" />## 2026 Tech events in Uganda 
+## 2026 Tech events in Uganda 
 Welcome to the centralized hub for all things tech in Uganda. This repository is a community-driven directory of upcoming conferences, meetups, hackathons, and workshops across the country.
 <img width="3780" height="1890" alt="Tech events in uganda by Sumaiya Nalukwago" src="https://github.com/user-attachments/assets/48310390-38d7-4cc2-84e9-6b69258356c6" />
 
