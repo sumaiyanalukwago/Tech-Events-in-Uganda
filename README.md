@@ -1,4 +1,4 @@
-## 2026 Tech events in Uganda 
+<img width="1254" height="1254" alt="venue (1)" src="https://github.com/user-attachments/assets/9dd65f34-391e-4aec-a641-9cfcddbb0e7f" />## 2026 Tech events in Uganda 
 Welcome to the centralized hub for all things tech in Uganda. This repository is a community-driven directory of upcoming conferences, meetups, hackathons, and workshops across the country.
 <img width="3780" height="1890" alt="Tech events in uganda by Sumaiya Nalukwago" src="https://github.com/user-attachments/assets/48310390-38d7-4cc2-84e9-6b69258356c6" />
 
@@ -392,7 +392,8 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch )
       
-- [ ] Join developers, founders, designers, students, creators, and AI enthusiasts for a casual day of co working, building, and connecting with others exploring the future of AI powered development.Bring your laptop, find a spot, grab a coffee, and spend the day working on whatever you are excited about, surrounded by people building and learning in real time. Share what you are building or just listen in and connect with others in the community. Cursor credits will be available for attendees. This will be held on  <img width="560" height="560" alt="WhatsApp Image 2026-07-17 at 15 44 11" src="https://github.com/user-attachments/assets/82db5a35-a78c-4a76-ad4d-e39413dc334b" />
+- [ ] Join developers, founders, designers, students, creators, and AI enthusiasts for a casual day of co working, building, and connecting with others exploring the future of AI powered development.Bring your laptop, find a spot, grab a coffee, and spend the day working on whatever you are excited about, surrounded by people building and learning in real time. Share what you are building or just listen in and connect with others in the community. Cursor credits will be available for attendees. This will be held on Saturday 25th July 2026 at Inspire Cafe, Kampala.
+  <img width="560" height="560" alt="WhatsApp Image 2026-07-17 at 15 44 11" src="https://github.com/user-attachments/assets/82db5a35-a78c-4a76-ad4d-e39413dc334b" />
       
 - [ ] Code Less, Build More: Getting Started with Google Antigravity IDE. Want to build faster using AI? Join GDG Cloud Mbarara to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture. This will be held on Thursday 16th July, 2026 starting at  07:00 PM (EAT) online. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-code-less-build-more-getting-started-with-google-antigravity-ide/)
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-15 at 19 05 50" src="https://github.com/user-attachments/assets/ddd34eab-d41e-4a14-8a52-fca46681b9d3" />
