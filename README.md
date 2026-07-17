@@ -413,7 +413,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 <img width="736" height="936" alt="WhatsApp Image 2026-07-15 at 19 05 07" src="https://github.com/user-attachments/assets/fb107de0-3145-4371-ad7c-6424709c07ba" />
 
 - [ ] ​We are pleased to announce that our Managing Director, Nesta Paul Katende, will be among the featured presenters at the upcoming CIO-CxO Digital Leadership Forum roundtable on "𝗔𝗜 𝗗𝗮𝘁𝗮: 𝗙𝗿𝗼𝗺 𝗛𝘆𝗽𝗲 𝘁𝗼 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗩𝗮𝗹𝘂𝗲."As a leader in enterprise Agentic AI, Otic is enabling organizations to move beyond AI hype and deliver measurable business value. At the roundtable, Nesta will share practical insights on how enterprises can embed AI into business workflows, enable better decision-making, and unlock measurable business outcomes. Happening on 31 July 2026 | 7:30 AM – 10:00 AM at Ministry of ICT & National Guidance, IAC Seminar Room, Parliamentary Avenue. 𝗔𝘁𝘁𝗲𝗻𝗱𝗮𝗻𝗰𝗲 𝗶𝘀 𝗳𝗿𝗲𝗲. 𝗥𝗲𝘀𝗲𝗿𝘃𝗲 𝘆𝗼𝘂𝗿 𝘀𝗲𝗮𝘁 𝘁𝗼𝗱𝗮𝘆: (https://bit.ly/3Tq9LvL)
-<img width="736" height="936" alt="𝗔𝗜 𝗗𝗮𝘁𝗮: 𝗙𝗿𝗼𝗺 𝗛𝘆𝗽𝗲 𝘁𝗼 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗩𝗮𝗹𝘂𝗲. <img width="1080" height="1080" alt="PHOTO-2026-07-17-12-40-04" src="https://github.com/user-attachments/assets/dd182f79-4ff9-46ea-b9c9-4bc9902026a2" />
+<img width="1080" height="1080" alt="AI Data: From Hype to Enterprise Value." src="https://github.com/user-attachments/assets/dd182f79-4ff9-46ea-b9c9-4bc9902026a2" />
 
 
 ## August
