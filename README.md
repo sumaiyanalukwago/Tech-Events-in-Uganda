@@ -392,6 +392,9 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Cloud Zero is the first ever event of the AWS Student Builder Group UICT. We're bringing together students who want to build real things, grow real skills, and plug into a community that's serious about technology across East Africa. Join us online this Wednesday 15th July 2026 starting at 07:00PM (EAT). Register here: (https://bit.ly/awssbguictlaunch )
       
+- [ ] <img width="560" height="560" alt="WhatsApp Image 2026-07-17 at 15 44 11" src="https://github.com/user-attachments/assets/82db5a35-a78c-4a76-ad4d-e39413dc334b" />
+
+      
 - [ ] Code Less, Build More: Getting Started with Google Antigravity IDE. Want to build faster using AI? Join GDG Cloud Mbarara to explore Google's new agentic development platform! Learn how to let AI agents handle the heavy coding while you focus on the big picture. This will be held on Thursday, 16th July, 2026 starting at  07:00 PM (EAT) online. Register here:( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-code-less-build-more-getting-started-with-google-antigravity-ide/)
 <img width="1080" height="1080" alt="WhatsApp Image 2026-07-15 at 19 05 50" src="https://github.com/user-attachments/assets/ddd34eab-d41e-4a14-8a52-fca46681b9d3" />
 
@@ -405,7 +408,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] Google IO Extended comes to Mbarara. This will be held on Saturday 18th July 2026 starting at 08:OOAM (EAT) in Mbarara. Register here: ( https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/ )
 <img width="3000" height="3000" alt="Google io extended" src="https://github.com/user-attachments/assets/7634bf4d-2108-4a51-8944-c452e433804d" />
 
-- [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday, July 25, 2026 starting at 10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
+- [ ] Build with AI, a global event series enabling developers to learn and build using Google's latest artificial intelligence and machine learning technologies.Join us for Build with AI Jinja combined with Google I/O Extended as we explore the latest updates, tools, and hands-on experiences across AI, Cloud, and modern development. This will be held on Saturday July 25, 2026 starting at 10:00 AM EAT at Jinja Tech Hub. Register here: ( https://gdg.community.dev/events/details/google-gdg-jinja-presents-build-with-ai-x-google-io-extended-jinja/)
 
 - [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala. Register here: ( https://community.africastalking.com/e/mwhabx/)
 
