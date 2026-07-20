@@ -429,20 +429,15 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 ## September
 
-- [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. on 19th–20th September 2026 at the Civil Service College Uganda in Jinja.
+- [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. on 19th–20th September 2026 at the Civil Service College Uganda in Jinja. Register here: ( https://jinja.wordcamp.org/2026/tickets/)
 
 
-
-
-Everyone is welcome you do not need to be a developer or an experienced WordPress user to attend.
-
-Get involved:
 
 1️⃣ Attend WordCamp Jinja 2026
 
 Book your ticket and secure your place:
 
-https://jinja.wordcamp.org/2026/tickets/
+
 
 For assistance, call or WhatsApp:
 
