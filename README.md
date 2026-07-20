@@ -430,6 +430,58 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 ## September
 
+Greetings colleagues and friends. As shared before. It’s official! WordCamp Jinja is back this year, bigger and better than ever before!
+
+Eastern Uganda’s largest premier annual WordPress event and one of the region's oldest and largest WordCamps returns for its 5th edition on 19th–20th September 2026 at the Civil Service College Uganda in Jinja.
+
+This year, we are gathering under the theme:
+
+🌊 Embrace Creative Currents on the Nile: Where Inclusivity Fuels Creativity.
+
+WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow.
+
+Expect inspiring talks, practical workshops, contributor activities, networking opportunities and sessions for both beginners and experienced WordPress users. We will also welcome speakers and community members from Uganda, across Africa and beyond.
+
+Everyone is welcome you do not need to be a developer or an experienced WordPress user to attend.
+
+Get involved:
+
+1️⃣ Attend WordCamp Jinja 2026
+
+Book your ticket and secure your place:
+
+https://jinja.wordcamp.org/2026/tickets/
+
+For assistance, call or WhatsApp:
+
+📞 0783123557/0700658632
+jinja@wordcamp.org
+
+2️⃣ Apply to speak or volunteer
+
+Share your knowledge, experience or creative journey as a speaker:
+
+https://jinja.wordcamp.org/2026/call-for-speakers/
+
+Join the volunteer team and help us create a welcoming event:
+
+https://jinja.wordcamp.org/2026/call-for-volunteers/
+
+3️⃣ Sponsor WordCamp Jinja 2026
+
+Support digital learning, open-source technology and community growth in Eastern Uganda:
+
+https://jinja.wordcamp.org/2026/call-for-sponsors/
+
+We have different sponsorship packages available and also welcome in-kind sponsorship for services and items such as internet connectivity, photography, videography, publicity, printing, refreshments, workshop materials and event swag.
+
+Tickets and participation opportunities are limited, so secure your place early.
+
+🌊 Join us on the Nile as we learn, connect, contribute and embrace new creative possibilities.
+
+WordCamp Jinja 2026
+📅 19th–20th September 2026
+📍 Civil Service College Uganda, Jinja
 
 ## October
 
