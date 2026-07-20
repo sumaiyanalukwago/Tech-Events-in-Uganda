@@ -482,6 +482,8 @@ Tickets and participation opportunities are limited, so secure your place early.
 WordCamp Jinja 2026
 📅 19th–20th September 2026
 📍 Civil Service College Uganda, Jinja
+<img width="1280" height="1280" alt="WhatsApp Image 2026-07-20 at 11 50 12" src="https://github.com/user-attachments/assets/59101ee2-d628-45f7-a35e-8ce48ec44001" />
+
 
 ## October
 
