@@ -433,27 +433,6 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 
 
-1️⃣ Attend WordCamp Jinja 2026
-
-Book your ticket and secure your place:
-
-
-
-For assistance, call or WhatsApp:
-
-📞 0783123557/0700658632
-jinja@wordcamp.org
-
-2️⃣ Apply to speak or volunteer
-
-Share your knowledge, experience or creative journey as a speaker:
-
-
-We have different sponsorship packages available and also welcome in-kind sponsorship for services and items such as internet connectivity, photography, videography, publicity, printing, refreshments, workshop materials and event swag.
-
-Tickets and participation opportunities are limited, so secure your place early.
-
-🌊 Join us on the Nile as we learn, connect, contribute and embrace new creative possibilities.
 
 WordCamp Jinja 2026
 📅 19th–20th September 2026
