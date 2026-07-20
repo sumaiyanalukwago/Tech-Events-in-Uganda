@@ -420,8 +420,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 
 ## August
-- [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
-      
+- [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)    
       
 - [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. More details will be announced. Learn more: ( https://summit.kampaladevops.org/ )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-04 at 3 43 01 PM" src="https://github.com/user-attachments/assets/6a86a396-3451-4b50-9c58-e2d25abd82dd" />
@@ -430,17 +429,10 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 ## September
 
-Greetings colleagues and friends. As shared before. It’s official! WordCamp Jinja is back this year, bigger and better than ever before!
+- [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. on 19th–20th September 2026 at the Civil Service College Uganda in Jinja.
 
-Eastern Uganda’s largest premier annual WordPress event and one of the region's oldest and largest WordCamps returns for its 5th edition on 19th–20th September 2026 at the Civil Service College Uganda in Jinja.
 
-This year, we are gathering under the theme:
 
-🌊 Embrace Creative Currents on the Nile: Where Inclusivity Fuels Creativity.
-
-WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow.
-
-Expect inspiring talks, practical workshops, contributor activities, networking opportunities and sessions for both beginners and experienced WordPress users. We will also welcome speakers and community members from Uganda, across Africa and beyond.
 
 Everyone is welcome you do not need to be a developer or an experienced WordPress user to attend.
 
