@@ -453,17 +453,6 @@ jinja@wordcamp.org
 
 Share your knowledge, experience or creative journey as a speaker:
 
-https://jinja.wordcamp.org/2026/call-for-speakers/
-
-Join the volunteer team and help us create a welcoming event:
-
-https://jinja.wordcamp.org/2026/call-for-volunteers/
-
-3️⃣ Sponsor WordCamp Jinja 2026
-
-Support digital learning, open-source technology and community growth in Eastern Uganda:
-
-https://jinja.wordcamp.org/2026/call-for-sponsors/
 
 We have different sponsorship packages available and also welcome in-kind sponsorship for services and items such as internet connectivity, photography, videography, publicity, printing, refreshments, workshop materials and event swag.
 
