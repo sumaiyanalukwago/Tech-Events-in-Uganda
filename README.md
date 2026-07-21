@@ -53,7 +53,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 ## February
 
-- [ ] Build with Google AI Studio. Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build! This will be held on Saturday 7th February 2026 at 6:00 PM. Register here: (https://tinyurl.com/buildwithAIStudio)
+- [ ] Build with Google AI Studio. Join GDG on Campus Makerere for a hands-on AI session using Google AI Studio, plus free Cloud credits to help you build! This will be held on Saturday 7th February 2026 at 6:00 PM. Register here:(https://tinyurl.com/buildwithAIStudio)
 ![event](https://github.com/user-attachments/assets/a950513e-ee92-4744-8b31-0921384b217b)
 
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
@@ -79,7 +79,7 @@ Register here: (https://lnkd.in/dYAW4-ci)
 <img width="720" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0a415a-040d-4989-8e62-61eeb9b0065b" />
 
 ## March
-- [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.  Learn more:(https://indabaxug.com/indabax2026/)
+- [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.  Learn more: (https://indabaxug.com/indabax2026/)
 ![WhatsApp Image 2026-03-01 at 9 18 59 PM](https://github.com/user-attachments/assets/0735dc02-773e-44bf-88b5-24cdc1ee7c1e)
 
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
@@ -95,12 +95,10 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 - [ ] The PyKla Meetup this month will be about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
 <img width="1200" height="675" alt="PYKLA MEETUP BANNER" src="https://github.com/user-attachments/assets/702b4949-ec7c-4b70-a3b9-1b7aa4ae9913" />
 
-- [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 PM (EAT).
-Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
+- [ ] Build with AI: Building with Google Antigravity. This will run from 08:00 PM (EAT). Learn more: (https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-build-with-ai-building-with-google-antigravity/)
 ![WhatsApp Image 2026-03-01 at 8 52 28 PM](https://github.com/user-attachments/assets/405b4770-a6cd-46a5-a336-aa738f0922cd)
 
-- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 PM (EAT).
-Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
+- [ ] Build with AI: Crafting Multi-Agent Systems. This will run from 05:00 PM (EAT). Learn more: ( https://tinyurl.com/bwai-multi-agent-systems)
 ![BWAI](https://github.com/user-attachments/assets/8f2f5bc8-57d9-4487-b962-d9d4acc159a4)
 
 - [ ] Filecoin Orbit Kampala:Introducing Filecoin Onchain Cloud.  This will be hold on Saturday March 21 at  10:00 AM (EAT). It will be held at Africa's Talking. Learn more: (https://luma.com/jbo0dwas)
