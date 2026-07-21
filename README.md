@@ -89,8 +89,7 @@ Mukono, Uganda. Learn more: (https://mukono.wordcamp.org/2026/)
 - [ ] GitHub Copilot Dev Days - UG Edition will take place on Saturday, 21st March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 10:00 AM – 1:00 PM (EAT). Learn more: ( https://luma.com/9764q8w9)
 ![ugvibecoders](https://github.com/user-attachments/assets/f8b3a838-f9bd-4046-a9af-79d14a2d0541)
 
-- [ ] The AWS Student Community Day will take place on Saturday, 7th  March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 09:00 AM (EAT).
-Learn more: (https://luma.com/9764q8w9)
+- [ ] The AWS Student Community Day will take place on Saturday, 7th  March 2026 in the Conference Room, Level 4, Block A — CoCIS, Makerere University, Uganda. This will run from 09:00 AM (EAT). Learn more: (https://luma.com/9764q8w9)
 ![WhatsApp Image 2026-02-04 at 10 40 59 PM](https://github.com/user-attachments/assets/4e591cc4-6358-4069-96ab-d303912e4fe8)
 
 - [ ] The PyKla Meetup this month will be about Writing Effective Documentation for Python's DevGuide with Sphinx and reStructuredText. This will be held on Saturday 28th March, 2026 from 02:00 PM (EAT).
