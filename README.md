@@ -422,7 +422,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 ## August
 - [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
       
-- [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026. Learn more: ( https://lnkd.in/dZzz_Pb8 )
+- [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
       
 - [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. More details will be announced. Learn more: ( https://summit.kampaladevops.org/ )
