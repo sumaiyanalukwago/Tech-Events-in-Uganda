@@ -418,8 +418,8 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] ​We are pleased to announce that our Managing Director, Nesta Paul Katende, will be among the featured presenters at the upcoming CIO-CxO Digital Leadership Forum roundtable on "𝗔𝗜 𝗗𝗮𝘁𝗮: 𝗙𝗿𝗼𝗺 𝗛𝘆𝗽𝗲 𝘁𝗼 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗩𝗮𝗹𝘂𝗲."As a leader in enterprise Agentic AI, Otic is enabling organizations to move beyond AI hype and deliver measurable business value. At the roundtable, Nesta will share practical insights on how enterprises can embed AI into business workflows, enable better decision-making, and unlock measurable business outcomes. This will be happening on Friday 31st July 2026 starting at 07:30 AM (EAT) at the Ministry of ICT & National Guidance, IAC Seminar Room, Parliamentary Avenue. 𝗥𝗲𝘀𝗲𝗿𝘃𝗲 𝘆𝗼𝘂𝗿 𝘀𝗲𝗮𝘁 𝘁𝗼𝗱𝗮𝘆: (https://bit.ly/3Tq9LvL)
 <img width="1080" height="1080" alt="AI Data: From Hype to Enterprise Value." src="https://github.com/user-attachments/assets/dd182f79-4ff9-46ea-b9c9-4bc9902026a2" />
 
-
 ## August
+
 - [ ] The International Conference on Digital Transformation in Information Technology, organized by ISIT, will be held on Monday 10th August 2026 in Entebbe, Uganda. Learn more: (https://isit.org.in/event/index.php?id=100753003)
       
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026. Register here : ( https://lnkd.in/dZzz_Pb8 )
