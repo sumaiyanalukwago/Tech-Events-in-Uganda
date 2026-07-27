@@ -408,6 +408,12 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] We’re excited to invite you to the Africa’s Talking WIT Kampala Sports , Music and Entertainment Hackathon happening on 25th July 2026. Join fellow developers, innovators, and tech enthusiasts for a full day of building, collaboration, and problem-solving. Come with your ideas, your skills, and your passion for creating impactful solutions using technology. This will be held on Saturday 25th July 2026 starting at 08:00 AM at Africa’s Talking Offices, Acacia Place, Kampala. Register here: ( https://community.africastalking.com/e/mwhabx/)
 
+- [ ] Ship Better Software with Kiro: Hands-on Workshop for Student Developers: Join AWS Builder Group Makerere University for an exciting
+hands-on workshop where you'll explore Kiro, AWS's AI-powered development environment designed to help developers move from ideas to production-ready applications.
+Whether you're just getting started with AI-assisted development or you're already experimenting with coding agents, this workshop will introduce you to modern software engineering workflows powered by AI. Happening on: 27th July, 2026. 6:00pm to 8:00pm EAT. Registration Link: (https://www.meetup.com/aws-sbg-at-makerere-university/events/315856984/?eventOrigin=group_upcoming_events)<img width="959" height="1197" alt="download" src="https://github.com/user-attachments/assets/ec962832-56b2-4c68-a2f9-6431dc5229cb" />
+
+
+
 - [ ] ​Ever wanted to build a real AI-powered application but didn't know where to start? This session is your entry point.Join us for a beginner-friendly, hands-on workshop where we'll build a real application from scratch using Google AI Studio, step by step, live. No prior coding experience needed, just curiosity and a laptop.By the end of the session, you'll understand how to prototype with AI tools and you'll walk away hackathon-ready with practical skills you can apply immediately.Whether you're preparing for your first hackathon or just want to see what's possible with AI Studio, this is where you start building.. This will be held on Friday 31st July 2026 from 07:00 PM–08:00PM (EAT) Online.  Register now: ( https://luma.com/jl30q0w1 )
 <img width="736" height="936" alt="WhatsApp Image 2026-07-15 at 19 05 07" src="https://github.com/user-attachments/assets/fb107de0-3145-4371-ad7c-6424709c07ba" />
 
