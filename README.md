@@ -426,6 +426,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Build with Devin MeetUp Kampala #1. ​Devin & Cognition are coming to Kampala. Cognition is a San Francisco based applied AI lab building autonomous software engineers. Their flagship product, Devin, is a fully autonomous AI developer that can plan, write, and debug real engineering work on its own. This is a relaxed, hands-on morning of building with Devin. No pitches, no fluff, just a room full of students, engineers, and founders shipping something real. Bring your laptop. This will be held on Saturday, August 22 2026 starting at 9:00 AM (EAT) at Inspire Cafe, Kampala- Uganda. Register here: ( https://luma.com/o5czft8q)
 
+
 - [ ] 
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
@@ -436,6 +437,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
+- [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/  
 
 ## September
 
