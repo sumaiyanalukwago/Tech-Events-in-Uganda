@@ -303,8 +303,7 @@ https://luma.com/0cwp89kv )
  - [ ] Join Us at Microsoft Build //localhost Mbarara 2026. Global AI Mbarara is proud to bring Microsoft Build //localhost to Mbarara, connecting developers, students, innovators, entrepreneurs, and AI enthusiasts with the latest advancements in AI, cloud computing, and software development. This will be held on Saturday, 13 June 2026 from  08:00 AM (EAT) at The Innovation Village – Mbarara, Uganda. Register now: ( https://globalai.community/e/rxs2g0eu )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-06-10 at 3 45 18 PM" src="https://github.com/user-attachments/assets/0839ad85-be5f-486f-8980-579ddc0b0e1c" />
 
- - [ ] Join us for an engaging discussion featuring: Ms. Joy Tiko,Software Developer | AI & Machine Learning Enthusiast | Lecturer at MUBS
-Topic: Innovation, Entrepreneurship, and Digital Business in the Age of AI and Mr. Solomon Opio GDG Lead Kampala | CEO, Soltech Digital Solutions. Topic: How Technology is Creating New Career Opportunities for Business Students.
+ - [ ] Join us for an engaging discussion featuring: Ms. Joy Tiko,Software Developer | AI & Machine Learning Enthusiast | Lecturer at MUBS. Topic: Innovation, Entrepreneurship, and Digital Business in the Age of AI and Mr. Solomon Opio GDG Lead Kampala | CEO, Soltech Digital Solutions. Topic: How Technology is Creating New Career Opportunities for Business Students.
 This will be held on Wednesday 18th June 2026 at 07:00 PM (EAT) online. Register here:( https://luma.com/ll9739fg)
 <img width="1024" height="1280" alt="WhatsApp Image 2026-06-18 at 16 26 13" src="https://github.com/user-attachments/assets/b62ef223-1de7-4ac9-b5e9-11aa3212cfe9" />
 
