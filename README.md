@@ -433,8 +433,6 @@ online. Register here: (https://luma.com/dj4en4ys)
       
 - [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. More details will be announced. Learn more: ( https://summit.kampaladevops.org/ )
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-04 at 3 43 01 PM" src="https://github.com/user-attachments/assets/6a86a396-3451-4b50-9c58-e2d25abd82dd" />
-
-
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/  
