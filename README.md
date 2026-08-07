@@ -426,6 +426,12 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Build with Devin MeetUp Kampala #1. ​Devin & Cognition are coming to Kampala. Cognition is a San Francisco based applied AI lab building autonomous software engineers. Their flagship product, Devin, is a fully autonomous AI developer that can plan, write, and debug real engineering work on its own. This is a relaxed, hands-on morning of building with Devin. No pitches, no fluff, just a room full of students, engineers, and founders shipping something real. Bring your laptop. This will be held on Saturday, August 22 2026 starting at 9:00 AM (EAT) at Inspire Cafe, Kampala- Uganda. Register here: ( https://luma.com/o5czft8q)
 
+- [ ] Meet the 13 schools showcasing innovation at the #WPinEducation Showcase 2026! We are excited to unveil the shortlisted schools presenting creative technology projects that demonstrate how learners are using digital skills to solve problems and transform education. Join us on Friday, 7th August 2026 at Janan Secondary School – Bombo Campus, Luweero. Read more: https://events.wordpress.org/luweero/2026/wordpress-showcase/meet-the-schools-showcasing-innovation-at-the-wordpress-in-education-showcase-2026/
+
+
+
+
+
 
 - [ ] 
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
