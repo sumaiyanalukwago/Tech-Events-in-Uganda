@@ -429,19 +429,15 @@ online. Register here: (https://luma.com/dj4en4ys)
 <img width="1600" height="900" alt="WhatsApp Image 2026-08-05 at 10 17 21" src="https://github.com/user-attachments/assets/08ce473c-5d33-4411-b1ec-a7617e59725b" />
 
 
-
-
-
-
-
-- [ ] 
-- [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
+- [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilience and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
       
 - [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. Join in on Saturday 15th August 2026 as we bring together top-tier regional and global minds to connect, innovate, and shape the future of Devops, cloud computing and software engineering in East Africa. Learn more: ( https://summit.kampaladevops.org/ ) 
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-04 at 3 43 01 PM" src="https://github.com/user-attachments/assets/6a86a396-3451-4b50-9c58-e2d25abd82dd" />
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
+
+- [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we'll define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT)
       
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
