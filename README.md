@@ -426,14 +426,9 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
 
-Ready to shape what "making things" looks like? 🛠️⚡
-Join engineers, technologists, factory operators, and innovators to explore how smart automation, predictive systems, and data-driven production are transforming modern manufacturing. From reducing downtime to reimagining the shop floor, let's dive into building the factories of the future!
-Event Details:
- * Date: Thursday, 13th August 2026
- * Time: 5:00 PM – 8:00 PM
- * Location: Africa's Talking Offices, Acacia Place, Kampala
- * Who can join: Manufacturing engineers, Plant managers, Industrial technologists, startup founders, students.
-👉 Register Here: https://community.africastalking.com/e/mvfads/
+- [ ]  Ready to shape what "making things" looks like? Join engineers, technologists, factory operators, and innovators to explore how smart automation, predictive systems, and data-driven production are transforming modern manufacturing. From reducing downtime to reimagining the shop floor, let's dive into building the factories of the future! This will be on Thursday, 13th August 2026 starting at 05:00 PM at Africa's Talking Offices, Acacia Place, Kampala. Register Here: (https://community.africastalking.com/e/mvfads/)
+ <img width="1024" height="1280" alt="WhatsApp Image 2026-08-11 at 14 51 56" src="https://github.com/user-attachments/assets/84b38993-150b-404e-a557-cf0645374bbf" />
+
 
 - [ ] Build with Devin MeetUp Kampala #1. ​Devin & Cognition are coming to Kampala. Cognition is a San Francisco based applied AI lab building autonomous software engineers. Their flagship product, Devin, is a fully autonomous AI developer that can plan, write, and debug real engineering work on its own. This is a relaxed, hands-on morning of building with Devin. No pitches, no fluff, just a room full of students, engineers, and founders shipping something real. Bring your laptop. This will be held on Saturday, August 22 2026 starting at 9:00 AM (EAT) at Inspire Cafe, Kampala- Uganda. Register here: ( https://luma.com/o5czft8q)
 
