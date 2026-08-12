@@ -446,8 +446,7 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we will define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT). Register here: (https://luma.com/8lzmqnsh)
 <img width="736" height="821" alt="WhatsApp Image 2026-08-05 at 16 01 00" src="https://github.com/user-attachments/assets/b9dd43a1-8843-46bd-b124-42e45ef4fa56" />
-
-      
+     
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
 
@@ -461,7 +460,6 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] We are excited to announce the 8th FITSPA Annual Fintech Conference 2026 under the theme, “Scaling Fintech Innovation for Inclusive Growth and a Resilient Digital Economy,” the Conference will convene over 700 stakeholders from across the fintech ecosystem, including regulators, financial institutions, investors, digital infrastructure providers, development partners, innovators, and academia. This is scheduled to run from 6–7 October 2026 at the Sheraton Hotel, Kampala, Uganda. To learn more or explore how best you can participate, contact us at info@fitspa.ug.
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-25 at 2 50 05 PM" src="https://github.com/user-attachments/assets/d4031f29-61c4-426b-84e5-7f9f1779419c" />
-
 
 - [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
 ![WhatsApp Image 2026-03-01 at 10 15 51 PM](https://github.com/user-attachments/assets/d9754bb0-06d4-4ff0-981f-a79b5d4417fa)
