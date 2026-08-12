@@ -422,10 +422,18 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Uganda is making critical decisions about how Artificial Intelligence will shape our economy, public services, education, and workforce. The question is no longer whether AI will transform our country but how we will prepare for it. Join us for an exclusive conversation with the leaders developing Uganda's National AI Strategy and discover what it means for businesses, professionals, entrepreneurs, educators, policymakers, and every Ugandan who wants to remain relevant in the digital economy. This will happen on Thursday, 6 August 2026 starting at 3:30 PM (UTC+3) online. Register online:(https://events.teams.microsoft.com/event/201ac654-91a6-4a9d-aabb-546bc7071fa3@58355f0b-de23-4f07-95a2-9b02060b90b7)
 <img width="1254" height="1254" alt="WhatsApp Image 2026-08-05 at 16 50 48" src="https://github.com/user-attachments/assets/219bec83-b6ab-4edf-aa13-a6d7241a359e" />
-
-      
+     
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilenece and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
+
+Ready to shape what "making things" looks like? 🛠️⚡
+Join engineers, technologists, factory operators, and innovators to explore how smart automation, predictive systems, and data-driven production are transforming modern manufacturing. From reducing downtime to reimagining the shop floor, let's dive into building the factories of the future!
+Event Details:
+ * Date: Thursday, 13th August 2026
+ * Time: 5:00 PM – 8:00 PM
+ * Location: Africa's Talking Offices, Acacia Place, Kampala
+ * Who can join: Manufacturing engineers, Plant managers, Industrial technologists, startup founders, students.
+👉 Register Here: https://community.africastalking.com/e/mvfads/
 
 - [ ] Build with Devin MeetUp Kampala #1. ​Devin & Cognition are coming to Kampala. Cognition is a San Francisco based applied AI lab building autonomous software engineers. Their flagship product, Devin, is a fully autonomous AI developer that can plan, write, and debug real engineering work on its own. This is a relaxed, hands-on morning of building with Devin. No pitches, no fluff, just a room full of students, engineers, and founders shipping something real. Bring your laptop. This will be held on Saturday, August 22 2026 starting at 9:00 AM (EAT) at Inspire Cafe, Kampala- Uganda. Register here: ( https://luma.com/o5czft8q)
 
