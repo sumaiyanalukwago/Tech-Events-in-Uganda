@@ -448,6 +448,16 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
 
+- [ ] X Space: "The State of Decentralization in EA" - a conversation to kickstart and expand your journey ahead of Blockchain DevFest 5.0 in Kampala. Saturday, August 15, 8:00–9:30 PM. Hosted by Block Bunch. Join via QR code or follow @BChainDevFest on X
+<img width="1254" height="1254" alt="Blockchain-Devfest-X-Space" src="https://github.com/user-attachments/assets/ecc7b1ec-f146-477b-a502-d280e6c5f4b6" />
+
+
+- [ ] Blockchain DevFest 2026 (5th Edition) - hosted by Block Bunch. Theme: "Towards Responsible Decentralized AI". Event date: August 29, 2026. Register: https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11
+ Follow on X: @BChainDevFest.
+ <img width="1197" height="1236" alt="Blockchain-Devfest-5th-edition" src="https://github.com/user-attachments/assets/2159f0fe-3f54-47d6-8bbe-5f4482811440" />
+<img width="1080" height="1080" alt="Blockcjain-devfest-2026" src="https://github.com/user-attachments/assets/613f5fe4-23b3-4209-9417-969cc007acd3" />
+
+
 ## September
 
 - [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. This will happen from 19th to 20th September 2026 at the Civil Service College Uganda in Jinja. Register here: ( https://jinja.wordcamp.org/2026/tickets/)
