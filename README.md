@@ -447,6 +447,8 @@ online. Register here: (https://luma.com/dj4en4ys)
 
 - [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026
  starting at 09:00 AM at Africa's Talking, 4th Floor, Acacia Place, Acacia Avenue. Register here: ( https://community.africastalking.com/e/m9e3wu/)
+<img width="864" height="1080" alt="WhatsApp Image 2026-08-14 at 08 12 13" src="https://github.com/user-attachments/assets/7120ab1a-e332-4182-bf99-9dfb02f0f414" />
+
      
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
