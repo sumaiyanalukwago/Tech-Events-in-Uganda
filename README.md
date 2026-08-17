@@ -448,9 +448,9 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we will define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT). Register here: (https://luma.com/8lzmqnsh)
 <img width="736" height="821" alt="WhatsApp Image 2026-08-05 at 16 01 00" src="https://github.com/user-attachments/assets/b9dd43a1-8843-46bd-b124-42e45ef4fa56" />
 
-
-
-Register here: (https://bit.ly/4c9Z9rp)
+- [ ] Join us for a hands-on AWS Student Builder Group session where we'll explore the fundamentals of deploying an application on AWS and setting up a simple Continuous Integration and Continuous Deployment (CI/CD) pipeline.
+Whether you're building personal projects, preparing for internships, or looking to strengthen your cloud development skills, this session will give you practical experience with workflows used by developers every day. You'll learn how applications are deployed to the cloud, how code changes can be automatically tested and deployed, and why CI/CD is an essential part of modern software development.
+This session is beginner-friendly, interactive, and focused on real-world implementation, so come ready to learn, build, and ask questions. This will be held on Saturday, August  22 starting at 08:00PM(EAT). Register here: (https://bit.ly/4c9Z9rp)
 <img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/ddeb51cc-9437-41cc-b1b8-7a1398dc74fa" />
 
 - [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026
