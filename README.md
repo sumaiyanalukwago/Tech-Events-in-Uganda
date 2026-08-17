@@ -442,14 +442,18 @@ online. Register here: (https://luma.com/dj4en4ys)
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
 
+- [ ] Join us for the official launch of the AWS Student Builder Group at Bugema University , a growing community of tech enthusiasts who are curious about cloud computing, AWS, innovation, and the opportunities available in today’s technology ecosystem. You do not need any previous cloud computing or AWS experience to attend. Whether you are completely new to tech, already building projects, exploring a technology career, or simply curious about what cloud computing is all about, this session is a great place to start. This will be held on Wednesday, August 2026 starting at 07:00 PM (EAT). Register here: (https://luma.com/33xc2gu8)
+<img width="1122" height="1402" alt="WhatsApp Image 2026-08-15 at 20 43 24" src="https://github.com/user-attachments/assets/4940a27d-7f24-497b-8d67-e48c659adfe1" />
+
+
 - [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we will define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT). Register here: (https://luma.com/8lzmqnsh)
 <img width="736" height="821" alt="WhatsApp Image 2026-08-05 at 16 01 00" src="https://github.com/user-attachments/assets/b9dd43a1-8843-46bd-b124-42e45ef4fa56" />
+
 
 - [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026
  starting at 09:00 AM at Africa's Talking, 4th Floor, Acacia Place, Acacia Avenue. Register here: ( https://community.africastalking.com/e/m9e3wu/)
 <img width="864" height="1080" alt="WhatsApp Image 2026-08-14 at 08 12 13" src="https://github.com/user-attachments/assets/7120ab1a-e332-4182-bf99-9dfb02f0f414" />
-
-     
+   
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
 
