@@ -448,6 +448,8 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we will define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT). Register here: (https://luma.com/8lzmqnsh)
 <img width="736" height="821" alt="WhatsApp Image 2026-08-05 at 16 01 00" src="https://github.com/user-attachments/assets/b9dd43a1-8843-46bd-b124-42e45ef4fa56" />
 
+
+
 Register here: (https://bit.ly/4c9Z9rp)
 <img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/ddeb51cc-9437-41cc-b1b8-7a1398dc74fa" />
 
@@ -457,6 +459,10 @@ Register here: (https://bit.ly/4c9Z9rp)
    
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
+
+- [ ] Are you a student, aspiring developer, tech enthusiast, or someone looking to level up your software development workflow? Join us for GitHub 101: Mastering Git and Version Control, a hands-on beginner-friendly workshop designed to help you understand Git, collaborate effectively using GitHub, and build confidence with industry-standard development practices.
+This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Conference Room, Block A, Level 4, Makerere University. Register Here: (https://luma.com/33xc2gu8).
+<img width="540" height="960" alt="WhatsApp Image 2026-08-17 at 10 33 53" src="https://github.com/user-attachments/assets/b624606f-0f69-4055-8687-c03cf1362a99" />
 
 ## September
 
