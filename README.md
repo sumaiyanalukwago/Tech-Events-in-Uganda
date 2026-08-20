@@ -474,7 +474,7 @@ This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Con
 - [ ] We are excited to announce the 8th FITSPA Annual Fintech Conference 2026 under the theme, “Scaling Fintech Innovation for Inclusive Growth and a Resilient Digital Economy,” the Conference will convene over 700 stakeholders from across the fintech ecosystem, including regulators, financial institutions, investors, digital infrastructure providers, development partners, innovators, and academia. This is scheduled to run from 6–7 October 2026 at the Sheraton Hotel, Kampala, Uganda. To learn more or explore how best you can participate, contact us at info@fitspa.ug.
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-25 at 2 50 05 PM" src="https://github.com/user-attachments/assets/d4031f29-61c4-426b-84e5-7f9f1779419c" />
 
-- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026 at Speke Resort Munyonyo.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: (https://africa.pycon.org/)
+- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026 at Speke Resort Munyonyo. For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: (https://africa.pycon.org/)
 ![WhatsApp Image 2026-03-01 at 10 15 51 PM](https://github.com/user-attachments/assets/d9754bb0-06d4-4ff0-981f-a79b5d4417fa)
 
 ## November
@@ -482,5 +482,7 @@ This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Con
 
 ## December
 Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. This December, we're back at Makerere University on  10th December 2026 for the second edition of AfriLang AI. Register here: (https://lnkd.in/d-84krPq)
+
+
 
 Curated with 💙 by Sumaiya Nalukwago.
