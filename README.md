@@ -472,8 +472,12 @@ This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Con
 
 ## September
 
+- [ ] The 3rd Annual ICT National Summit is here. Under the theme, Leveraging AI, Digital Infrastructure and Innovation to  Accelerate Uganda’s 10X Growth to $500 Billion.   
+It is bringing together industry leaders, innovators and policymakers to explore how AI, digital technologies and innovation can transform Uganda’s key sectors, create new opportunities and drive sustainable, inclusive economic growth. This will run from the 2nd to the 4th of September at the National ICT Hub, Nakawa, Uganda. Register Here: (https://ictau.ug)
+
 - [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. This will happen from 19th to 20th September 2026 at the Civil Service College Uganda in Jinja. Register here: ( https://jinja.wordcamp.org/2026/tickets/)
 <img width="1280" height="1280" alt="WhatsApp Image 2026-07-20 at 11 50 12" src="https://github.com/user-attachments/assets/59101ee2-d628-45f7-a35e-8ce48ec44001" />
+
 
 ## October
 
