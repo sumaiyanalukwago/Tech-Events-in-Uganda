@@ -437,25 +437,37 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] The National Cybersecurity Conference, under the theme "Securing Uganda's digital future: collaboration, resilience and trust will be happening from 11th to 12th August 2026 at Sheraton Hotel, Kampala. Register here : ( https://lnkd.in/dZzz_Pb8 )
 <img width="800" height="639" alt="WhatsApp Image 2026-07-25 at 22 34 54" src="https://github.com/user-attachments/assets/dbf2aa4d-42f3-4fc1-ae18-9d0eff904a15" />
       
-- [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. Join in on Saturday 15th August 2026 as we bring together top-tier regional and global minds to connect, innovate, and shape the future of Devops, cloud computing and software engineering in East Africa. Learn more: ( https://summit.kampaladevops.org/ ) 
+- [ ] Be part of history at the inaugural Kampala DevOps & Cloud Summit — the premier gathering for East Africa’s tech ecosystem. Join elite engineers, architects and industry leaders for a day dedicated to deep dives, high-level networking and the next wave of cloud innovation. Join in on Saturday 15th August 2026 as we bring together top-tier regional and global minds to connect, innovate, and shape the future of Devops, cloud computing and software engineering in East Africa. Register here: ( https://summit.kampaladevops.org/ ) 
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-04 at 3 43 01 PM" src="https://github.com/user-attachments/assets/6a86a396-3451-4b50-9c58-e2d25abd82dd" />
       
 - [ ] The International Conference on Machine Learning for Big Data-enabled IT Solutions, organized by AFTER,will be held from Tuesday 18th to Wednesday 19th August 2026, in Gulu, Uganda. Learn more: (https://after.org.in/event/index.php?id=100731995)
 
+- [ ] Join us for the official launch of the AWS Student Builder Group at Bugema University , a growing community of tech enthusiasts who are curious about cloud computing, AWS, innovation, and the opportunities available in today’s technology ecosystem. You do not need any previous cloud computing or AWS experience to attend. Whether you are completely new to tech, already building projects, exploring a technology career, or simply curious about what cloud computing is all about, this session is a great place to start. This will be held on Wednesday, August 2026 starting at 07:00 PM (EAT). Register here: (https://luma.com/33xc2gu8)
+<img width="1122" height="1402" alt="WhatsApp Image 2026-08-15 at 20 43 24" src="https://github.com/user-attachments/assets/4940a27d-7f24-497b-8d67-e48c659adfe1" />
+
 - [ ] Join us for a hands-on development session where we'll continue building our blockchain-powered solution for Transparent SACCO Funds Management. This collaborative builders session is focused on coding, product development, contributor onboarding, and accelerating progress on one of Logos Winnable Issues. Together, we will define clear responsibilities, build core features, and strengthen our contributor ecosystem. This will be held on Saturday, 29th August, 2026 at Conference Room, Block A Level 4, Makerere University starting at 10:00 AM (EAT). Register here: (https://luma.com/8lzmqnsh)
 <img width="736" height="821" alt="WhatsApp Image 2026-08-05 at 16 01 00" src="https://github.com/user-attachments/assets/b9dd43a1-8843-46bd-b124-42e45ef4fa56" />
-     
+
+- [ ] Join us for a hands-on AWS Student Builder Group session where we'll explore the fundamentals of deploying an application on AWS and setting up a simple Continuous Integration and Continuous Deployment (CI/CD) pipeline.
+Whether you're building personal projects, preparing for internships, or looking to strengthen your cloud development skills, this session will give you practical experience with workflows used by developers every day. You'll learn how applications are deployed to the cloud, how code changes can be automatically tested and deployed, and why CI/CD is an essential part of modern software development.
+This session is beginner-friendly, interactive, and focused on real-world implementation, so come ready to learn, build, and ask questions. This will be held on Saturday, August  22 starting at 08:00PM(EAT). Register here: (https://bit.ly/4c9Z9rp)
+<img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/ddeb51cc-9437-41cc-b1b8-7a1398dc74fa" />
+
+- [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026
+ starting at 09:00 AM at Africa's Talking, 4th Floor, Acacia Place, Acacia Avenue. Register here: ( https://community.africastalking.com/e/m9e3wu/)
+<img width="864" height="1080" alt="WhatsApp Image 2026-08-14 at 08 12 13" src="https://github.com/user-attachments/assets/7120ab1a-e332-4182-bf99-9dfb02f0f414" />
+   
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
 
-- [ ] X Space: "The State of Decentralization in EA" - a conversation to kickstart and expand your journey ahead of Blockchain DevFest 5.0 in Kampala. Saturday, August 15, 8:00–9:30 PM. Hosted by Block Bunch. Join via QR code or follow @BChainDevFest on X
-<img width="1254" height="1254" alt="Blockchain-Devfest-X-Space" src="https://github.com/user-attachments/assets/ecc7b1ec-f146-477b-a502-d280e6c5f4b6" />
-
-
-- [ ] Blockchain DevFest 2026 (5th Edition) - hosted by Block Bunch. Theme: "Towards Responsible Decentralized AI". Event date: August 29, 2026. Register: https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11
- Follow on X: @BChainDevFest.
- <img width="1197" height="1236" alt="Blockchain-Devfest-5th-edition" src="https://github.com/user-attachments/assets/2159f0fe-3f54-47d6-8bbe-5f4482811440" />
+- [ ] Blockchain DevFest 2026 hosted by Block Bunch under the Theme: "Towards Responsible Decentralized AI". This will happen on August 29, 2026
+Register: (https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11)
+ 
 <img width="1080" height="1080" alt="Blockcjain-devfest-2026" src="https://github.com/user-attachments/assets/613f5fe4-23b3-4209-9417-969cc007acd3" />
+
+- [ ] Are you a student, aspiring developer, tech enthusiast, or someone looking to level up your software development workflow? Join us for GitHub 101: Mastering Git and Version Control, a hands-on beginner-friendly workshop designed to help you understand Git, collaborate effectively using GitHub, and build confidence with industry-standard development practices.
+This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Conference Room, Block A, Level 4, Makerere University. Register Here: (https://luma.com/33xc2gu8).
+<img width="540" height="960" alt="WhatsApp Image 2026-08-17 at 10 33 53" src="https://github.com/user-attachments/assets/b624606f-0f69-4055-8687-c03cf1362a99" />
 
 
 ## September
@@ -468,13 +480,14 @@ online. Register here: (https://luma.com/dj4en4ys)
 - [ ] We are excited to announce the 8th FITSPA Annual Fintech Conference 2026 under the theme, “Scaling Fintech Innovation for Inclusive Growth and a Resilient Digital Economy,” the Conference will convene over 700 stakeholders from across the fintech ecosystem, including regulators, financial institutions, investors, digital infrastructure providers, development partners, innovators, and academia. This is scheduled to run from 6–7 October 2026 at the Sheraton Hotel, Kampala, Uganda. To learn more or explore how best you can participate, contact us at info@fitspa.ug.
 <img width="1080" height="1080" alt="WhatsApp Image 2026-05-25 at 2 50 05 PM" src="https://github.com/user-attachments/assets/d4031f29-61c4-426b-84e5-7f9f1779419c" />
 
-- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
+- [ ] PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026 at Speke Resort Munyonyo. For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: (https://africa.pycon.org/)
 ![WhatsApp Image 2026-03-01 at 10 15 51 PM](https://github.com/user-attachments/assets/d9754bb0-06d4-4ff0-981f-a79b5d4417fa)
 
 ## November
 
 
 ## December
+Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. This December, we're back at Makerere University on  10th December 2026 for the second edition of AfriLang AI. Register here: (https://lnkd.in/d-84krPq)
 
 
 
