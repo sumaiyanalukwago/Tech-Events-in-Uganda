@@ -460,9 +460,15 @@ This session is beginner-friendly, interactive, and focused on real-world implem
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
 <img width="1254" height="1254" alt="WhatsApp Image 2026-07-30 at 10 23 21" src="https://github.com/user-attachments/assets/ce23002d-6859-46f2-99a9-7919813e10e8" />
 
+- [ ] Blockchain DevFest 2026 hosted by Block Bunch under the Theme: "Towards Responsible Decentralized AI". This will happen on August 29, 2026
+Register: (https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11)
+ 
+<img width="1080" height="1080" alt="Blockcjain-devfest-2026" src="https://github.com/user-attachments/assets/613f5fe4-23b3-4209-9417-969cc007acd3" />
+
 - [ ] Are you a student, aspiring developer, tech enthusiast, or someone looking to level up your software development workflow? Join us for GitHub 101: Mastering Git and Version Control, a hands-on beginner-friendly workshop designed to help you understand Git, collaborate effectively using GitHub, and build confidence with industry-standard development practices.
 This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Conference Room, Block A, Level 4, Makerere University. Register Here: (https://luma.com/33xc2gu8).
 <img width="540" height="960" alt="WhatsApp Image 2026-08-17 at 10 33 53" src="https://github.com/user-attachments/assets/b624606f-0f69-4055-8687-c03cf1362a99" />
+
 
 ## September
 
