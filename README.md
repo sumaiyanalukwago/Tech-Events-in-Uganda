@@ -481,10 +481,10 @@ This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Con
 
 
 ## December
-PyCon Africa 2026 is happening in Kampala, Uganda, from 7th to 11th October 2026.For five days, developers, builders, educators, students, and tech leaders from across Africa and beyond will come together to share ideas, learn from one another and celebrate the Python community. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
+Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. Learn more: ([https://isit.org.in/event/index.php?id=100753003](https://africa.pycon.org/))
 Registration for AfriLang AI 2026 is open.
 
-Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc.
+
 
 This December, we're back at Makerere University for the second edition of AfriLang AI.
 
