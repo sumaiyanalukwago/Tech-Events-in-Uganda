@@ -463,6 +463,8 @@ This session is beginner-friendly, interactive, and focused on real-world implem
 Register: (https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11)
 <img width="1080" height="1080" alt="Blockcjain-devfest-2026" src="https://github.com/user-attachments/assets/613f5fe4-23b3-4209-9417-969cc007acd3" />
 
+- [ ] Join us for the official launch of the AWS Student Builder Group at Bugema University , a growing community of tech enthusiasts who are curious about cloud computing, AWS, innovation, and the opportunities available in today’s technology ecosystem. You do not need any previous cloud computing or AWS experience to attend. Whether you are completely new to tech, already building projects, exploring a technology career, or simply curious about what cloud computing is all about, this session is a great place to start. This will be held on Wednesday, August 2026  starting at 07:00 PM (EAT) Online. Register here:( https://bit.ly/4gt6GUN)
+
 - [ ] Are you a student, aspiring developer, tech enthusiast, or someone looking to level up your software development workflow? Join us for GitHub 101: Mastering Git and Version Control, a hands-on beginner-friendly workshop designed to help you understand Git, collaborate effectively using GitHub, and build confidence with industry-standard development practices.
 This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Conference Room, Block A, Level 4, Makerere University. Register Here: (https://luma.com/33xc2gu8).
 <img width="540" height="960" alt="WhatsApp Image 2026-08-17 at 10 33 53" src="https://github.com/user-attachments/assets/b624606f-0f69-4055-8687-c03cf1362a99" />
