@@ -453,8 +453,7 @@ Whether you're building personal projects, preparing for internships, or looking
 This session is beginner-friendly, interactive, and focused on real-world implementation, so come ready to learn, build, and ask questions. This will be held on Saturday, August  22 starting at 08:00PM(EAT). Register here: (https://bit.ly/4c9Z9rp)
 <img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/ddeb51cc-9437-41cc-b1b8-7a1398dc74fa" />
 
-- [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026
- starting at 09:00 AM at Africa's Talking, 4th Floor, Acacia Place, Acacia Avenue. Register here: ( https://community.africastalking.com/e/m9e3wu/)
+- [ ] Join us for the Africa's Talking Women in Tech Hackathon: Legal & Policy Advocacy. Ready to build technology that creates real community impact? Join us for a full-day hackathon where we'll design and develop innovative solutions that make legal and policy information easier to access, understand, and share using Africa's Talking APIs. This will be on Saturday, 29/08/2026 starting at 09:00 AM at Africa's Talking, 4th Floor, Acacia Place, Acacia Avenue. Register here: ( https://community.africastalking.com/e/m9e3wu/)
 <img width="864" height="1080" alt="WhatsApp Image 2026-08-14 at 08 12 13" src="https://github.com/user-attachments/assets/7120ab1a-e332-4182-bf99-9dfb02f0f414" />
    
 - [ ] The Biggest WordPress Community Event in Northern Uganda is happening. Join developers, designers, business owners, bloggers & students for 2 days of learning, networking, and building with WordPress. This will happen from Saturday 29th to Sunday 30th August 2026 at Lira Town College, Lira City. Secure your ticket now: www.lira.wordcamp.org/2026/tickets/
@@ -462,7 +461,6 @@ This session is beginner-friendly, interactive, and focused on real-world implem
 
 - [ ] Blockchain DevFest 2026 hosted by Block Bunch under the Theme: "Towards Responsible Decentralized AI". This will happen on August 29, 2026
 Register: (https://app.unlock-protocol.com/event/block-chain-developer-festival-v-11)
- 
 <img width="1080" height="1080" alt="Blockcjain-devfest-2026" src="https://github.com/user-attachments/assets/613f5fe4-23b3-4209-9417-969cc007acd3" />
 
 - [ ] Are you a student, aspiring developer, tech enthusiast, or someone looking to level up your software development workflow? Join us for GitHub 101: Mastering Git and Version Control, a hands-on beginner-friendly workshop designed to help you understand Git, collaborate effectively using GitHub, and build confidence with industry-standard development practices.
@@ -492,6 +490,8 @@ It is bringing together industry leaders, innovators and policymakers to explore
 
 ## December
 Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. This December, we're back at Makerere University on  10th December 2026 for the second edition of AfriLang AI. Register here: (https://lnkd.in/d-84krPq)
+<img width="800" height="1000" alt="1786961866191" src="https://github.com/user-attachments/assets/1754449c-bb42-41d6-a7a4-8596d400acb6" />
+
 
 
 
