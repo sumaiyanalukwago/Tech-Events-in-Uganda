@@ -4,7 +4,7 @@ Welcome to the centralized hub for all things tech in Uganda. This repository is
 
 ## Why this exists?
 
-Social media feeds move fast, and important events often get buried. This repository serves as a permanent,searchable, and collaborative record to ensure no developer or tech enthusiast in Uganda misses out on growth opportunities.
+Social media feeds move fast, and important events often get buried. This repository serves as a permanent, searchable, and collaborative record to ensure no developer or tech enthusiast in Uganda misses out on growth opportunities.
  
 Every link in this repository includes a date and time when a particular event will be happening alongside the venue.  The events are arranged according to months.
 
