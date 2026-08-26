@@ -483,6 +483,7 @@ It is bringing together industry leaders, innovators and policymakers to explore
 - [ ] It’s official! WordCamp Jinja is back this year, bigger and better than ever before! WordCamp Jinja brings together students, teachers, bloggers, writers, developers, designers, entrepreneurs, digital marketers, photographers, community organisers and curious minds who want to learn, connect and grow. This will happen from 19th to 20th September 2026 at the Civil Service College Uganda in Jinja. Register here: ( https://jinja.wordcamp.org/2026/tickets/)
 <img width="1280" height="1280" alt="WhatsApp Image 2026-07-20 at 11 50 12" src="https://github.com/user-attachments/assets/59101ee2-d628-45f7-a35e-8ce48ec44001" />
 
+- [ ] The PyTorch East Africa community has been growing through workshops, online activities, and knowledge sharing across the region. This meetup brings the community together in Kampala, Uganda around PyTorch, machine learning, deep learning, and open-source AI. Expect technical talks from practitioners and researchers, practical insights, community discussions, and opportunities to connect with others working and learning in AI/ML.
 
 
 
