@@ -470,6 +470,16 @@ Register: (https://app.unlock-protocol.com/event/block-chain-developer-festival-
 This will be held on Monday, 31st August 2026 starting at  10:00 AM (EAT) at Conference Room, Block A, Level 4, Makerere University. Register Here: (https://luma.com/33xc2gu8).
 <img width="540" height="960" alt="WhatsApp Image 2026-08-17 at 10 33 53" src="https://github.com/user-attachments/assets/b624606f-0f69-4055-8687-c03cf1362a99" />
 
+- [ ] Road to BChainDevfest: Decentralized Al --> Hype, Hope or Necessity?
+Tuesday 25th Aug 2026 - Time: 8 pm - https://x.com/i/spaces/1dKrPraydAeJX
+<img width="1280" height="1280" alt="Blockchain-X-Space" src="https://github.com/user-attachments/assets/392a0cb2-625e-453e-95ab-8513c1f562b8" />
+
+- [ ] Blockchain DevFest 2026 (5th Edition) - Venue Announcement
+ August 29, 2026 - Location: MUBS, ADB Lecture Theatre, Kampala 
+ [BChainDevFest on X]
+Theme: Towards Responsible Decentralized AI
+<img width="1045" height="1080" alt="Blockchain-devfest-venue" src="https://github.com/user-attachments/assets/8b36ca75-4c3f-420b-a33b-f4e84bf9885b" />
+
 
 ## September
 
