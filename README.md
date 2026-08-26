@@ -484,8 +484,7 @@ It is bringing together industry leaders, innovators and policymakers to explore
 <img width="1280" height="1280" alt="WhatsApp Image 2026-07-20 at 11 50 12" src="https://github.com/user-attachments/assets/59101ee2-d628-45f7-a35e-8ce48ec44001" />
 
 - [ ] The PyTorch East Africa community has been growing through workshops, online activities, and knowledge sharing across the region. This meetup brings the community together in Kampala, Uganda around PyTorch, machine learning, deep learning, and open-source AI. Expect technical talks from practitioners and researchers, practical insights, community discussions, and opportunities to connect with others working and learning in AI/ML. This will be held on Saturday, September 19 , 2026 in Kampala. Register here: (https://luma.com/81kzqvn9?tk=leLwLR)
-
-
+<img width="1123" height="794" alt="WhatsApp Image 2026-08-26 at 11 45 29" src="https://github.com/user-attachments/assets/8a0373ef-962c-4902-a66e-8cfd7d00f315" />
 
 ## October
 
