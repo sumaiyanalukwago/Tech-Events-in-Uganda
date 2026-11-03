@@ -509,6 +509,8 @@ It is bringing together industry leaders, innovators and policymakers to explore
 
 ## November
 
+- [ ] AWS Student Community Day Kampala will be hosted at Makerere University Business School (ADB Building) on Saturday 7th November 2026 from 8:00 AM – 5:00 PM. Join 150+ students, developers, and tech leaders for a full day of cloud talks and demos, expert speakers, networking and career opportunities, Kahoot, quizzes and interactive sessions, plus innovation and community. Powered by Amazon Web Services and the AWS student community. RSVP here: (https://bit.ly/AWS_Student_Community_Day_Kampala)
+
 
 ## December
 Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. This December, we're back at Makerere University on  10th December 2026 for the second edition of AfriLang AI. Register here: (https://lnkd.in/d-84krPq)
