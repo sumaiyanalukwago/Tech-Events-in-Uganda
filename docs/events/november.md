@@ -1,1 +1,2 @@
 ## November
+- [ ] AWS Student Community Day Kampala will be hosted at Makerere University Business School (ADB Building) on Saturday 7th November 2026 from 8:00 AM – 5:00 PM. Join 150+ students, developers, and tech leaders for a full day of cloud talks and demos, expert speakers, networking and career opportunities, Kahoot, quizzes and interactive sessions, plus innovation and community. Powered by Amazon Web Services and the AWS student community. RSVP here: (https://bit.ly/AWS_Student_Community_Day_Kampala)
