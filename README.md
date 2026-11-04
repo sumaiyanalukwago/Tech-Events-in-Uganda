@@ -509,6 +509,8 @@ It is bringing together industry leaders, innovators and policymakers to explore
 
 ## November
 
+- [ ] Huawei ICT Competition Roadshow. The Huawei ICT Competition Roadshow is taking the ICT competition to Kabale. This will be held on 18th November 2026 from 10:00 AM to 5:00 PM (EAT) at the Kabale University Main Computer Lab. Learn more: (TBA) Register here: (TBA)
+![Huawei ICT Competition Roadshow](kabale-roadshow.jpg)
 
 ## December
 Last year, AI for African Languages brought together researchers, engineers, government reps, and more from across Uganda and beyond for a full day on AI for African languages, covering speech technology, low-resource NLP, and real deployments in health, education, etc. This December, we're back at Makerere University on  10th December 2026 for the second edition of AfriLang AI. Register here: (https://lnkd.in/d-84krPq)
